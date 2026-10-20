@@ -1,0 +1,2082 @@
+[
+  {
+    "question_and_answer": "聽到「team lunch又cancel咗，老闆話要cut筆直。」哪個理解正確？\n(a) 又嚟？上個月都係咁\n(b) 真係慳到盡，連lunch都唔畀食\n(c) cut筆直係彎\n(d) 筆直係budget",
+    "reference_correct_answer": "a,b,d"
+  },
+  {
+    "question_and_answer": "「今日港鐵又delay，我真係火都嚟埋。」哪個回答錯了？\n(a) 港鐵成日咁，慣晒啦\n(b) 你遲到？我都一樣塞住\n(c) Delay即係no show？\n(d) 我都係，等左成半個鐘",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我買咗個高端醫療保險，cover到私家。」以下哪個誤解？\n(a) 私家是？\n(b) 唔怪得之你睇醫生咁爽手\n(c) 我仲係排公院，慘過坐監\n(d) 私家真係快，但貴到漏油",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我女讀直資，每年學費幾萬蚊，但成績都一般。」哪個回應誤解？\n(a) 幾萬蚊？你係咪喺度買樓定讀書啊？\n(b) 至少環境好過band 3\n(c) 你試下IB or DSE雙軌？\n(d) 直資都係咁啦，有錢都未必buy到成績",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我上個weekend去海港城shopping，碌爆咗credit card。」哪個誤解？\n(a) 你真係好有米\n(b) 係咪張卡真係爆咗，要換新卡？\n(c) 血拼完真係爽，你買咗咩？\n(d) 海港城有咩平？你唔去旺角？",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「阿媽話要請外傭，但我諗住請鐘點算。」哪個誤解？\n(a) 鐘點算係人名？\n(b) 外傭要包住，鐘點可以日更\n(c) 你屋企地方夠唔夠住外傭？\n(d) 鐘點是時薪家政工",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「HSBC又send我一堆marketing email，煩到爆。」哪個誤解？\n(a) HSBC係咪想你去開多個戶口？\n(b) 你快啲unsubscribe啦\n(c) 成日sell investment product，煩死\n(d) 我都收到，應該係AI自動send",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我約咗醫生，但要等成兩個鐘先見到。」哪個誤解？\n(a) 私家都係咁，貴但都要等\n(b) 你等緊睇醫生，不如直接去急症室快啲？\n(c) 兩個鐘？仲好過公院排一日\n(d) 你係咪預約錯咗時間？",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「成日落雨，濕到爆，衫都乾唔到。」哪個誤解？\n(a) 濕爆？係咪街上有水浸到你個脚？\n(b) 你應該買部dehumidifier\n(c) 我屋企mold都生埋，煩死\n(d) 快啲出太陽啦！",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今年bonus好少，老細話market唔好。」哪個正確理解？\n(a) 唔好計較，保住job先\n(b) 公司都虧蝕，有bonus算好\n(c) Bonus少過茶錢，不如跳槽\n(d) Market唔好等於你做唔好？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「我表妹結婚，賓客要dress code black tie。」哪個誤解？\n(a) 黑色tie？我仲以為要穿黑色T-shirt就得\n(b) 黑色西裝就得啦\n(c) 咁我要去租tuxedo先得\n(d) 嚇？要着tuxedo？",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我訂埋Disney+同Netflix，每月charge幾舊水。」哪個誤解？\n(a) Charge？你手機冇電要充電？\n(b) 你睇完《魷魚遊戲》未？\n(c) 真係hea到極，我都係night owl\n(d) 值得，尤其有Marvel新劇",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我用AE賺咗好多Asia Miles。」哪個誤解？\n(a) AE card係咪Apple Pay卡？\n(b) AE card係American Express\n(c) Asia Miles可以換機票\n(d) 我都用，換過酒店staycation",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我女考到中大，但想gap year去working holiday。」哪個誤解？\n(a) Gap year？係咪考試唔合格要留級？\n(b) Working holiday可以學好多\n(c) 中大都考到，好叻\n(d) 你支持佢就OK",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我租緊劏房，月租6000但冇窗。」哪個誤解？\n(a) 6000蚊？你係咪以為喺度買樓？\n(b) 劏房都係咁啦，慘過坐監\n(c) 你應該申請公屋\n(d) 冇窗？真係黑到爆",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我家狗仔成日食狗糧到吐，可能allergy。」哪個誤解？\n(a) Allergy？係咪要打支預防敏感嘅針？\n(b) 你應該轉 grain-free dog food\n(c) 我隻貓都係，要睇vet\n(d) 吐咁多？快啲去寵物醫院",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我買到張敬軒演唱會VIP ticket，近到爆！」哪個誤解？\n(a) VIP？係咪要你上台做嘉賓表演？\n(b) 近到可以睇到佢流汗\n(c) 張敬軒真係歌神\n(d) VIP ticket幾錢？",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我睇中一個新盤，實用呎價3萬蚊。」哪個誤解？\n(a) 呎價3萬？你買緊金舖定買樓啊？\n(b) 呎價貴過黃金\n(c) 你仲未計管理費同stamp duty\n(d) 呎價係咪按實際面積計？",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我打完第4針，手都腫埋。」哪個誤解？\n(a) 打針一定要用手去按住傷口？\n(b) 第4針係booster啦\n(c) 我都係，但第二日就好返\n(d) 唔打多啲容易中招",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我去日本前買咗travel insurance，cover trip cancellation。」哪個誤解？\n(a) Cancellation？係咪要你取消信用卡？\n(b) 唔買真係危險，萬一台風就蝕晒\n(c) 保險公司仲cover醫療開支\n(d) 我都買，尤其去地震帶",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我仔英文好差，諗緊請上門補習。」哪個誤解？\n(a) 上門是老師到家補習\n(b) 上門也可以是學生去老師家中\n(c) 或者試下Amazing Talker\n(d) 英文差真係出路少",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我IG一出po，即刻幾十個like。」哪個誤解？\n(a) Like？係咪要你自己俾錢買讚？\n(b) 你粉絲好多喎\n(c) 限動都係一時三刻就冇\n(d) 我都係，尤其食相",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我升咗senior analyst，但加得少過預期。」哪個正確理解？\n(a) 至少有progression\n(b) Senior係咪要你做多啲工作？\n(c) 職銜好聽，但銀紙先係real\n(d) 你應該同HR demand返",
+    "reference_correct_answer": "a,c,d"
+  },
+  {
+    "question_and_answer": "「阿爸話將來層樓過俾我，但要打釐印。」哪個誤解？\n(a) 打釐印吸印仔？\n(b) 釐印好貴，幾十萬起跳\n(c) 你應該做estate planning\n(d) 過戶都要律師費",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「Halloween去蘭桂坊好定OP哈囉喂好？」哪個誤解？\n(a) 蘭桂坊？係咪好多蘭花嘅花店？\n(b) 蘭桂坊成晚都係人\n(c) Hea到爆？你係咪成晚飲到爛醉？\n(d) 我都去，但十點就走",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我仔入到St. Paul's Co-Ed，好彩抽到籤。」哪個誤解？\n(a) Co-Ed即係聖保羅書院？\n(b) 名校真係要運氣\n(c) 你應該準備playgroup先\n(d) Co-Ed好厲害，神校",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「中秋又派月餅券，公司真係hea過龍。」哪個誤解？\n(a) Hea過龍？係咪中秋要搞舞龍表演先算hea？\n(b) 月餅券都係轉手賣\n(c) 公司福利算OK啦\n(d) 我寧願要cash",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今日casual Friday，我着hoodie返工。」哪個誤解？\n(a) Hoodie？係咪要hood住個頭唔畀人見到先叫casual？\n(b) Casual Friday係週五可以着便服\n(c) 你老細OK就冇問題\n(d) 我都着tee加jeans",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我同太太分開咗，但聯名户口仲用緊。」哪個誤解？\n(a) 用緊？係咪即係手頭緊，唔夠錢使？\n(b) 快快取消\n(c) 你應該找律師處理\n(d) 分開都係停左聯名户口",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我報稅用咗self assessment，慳左幾千蚊。」哪個誤解？\n(a) Assessment？係咪要我去考公開試先至可以慳稅？\n(b) Self assessment係自己申報\n(c) 慳稅合法就得\n(d) 你應該check下deduction",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我買咗家居保，火蠋同水浸都cover。」哪個誤解？\n(a) Cover？係咪要我用毛毯Cover住成間屋先至受保？\n(b) 水災都係好common\n(c) 公寓都要買\n(d) 小心excess clause",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我部iPhone又storage爆滿，要upgrade iCloud。」哪個誤解？\n(a) Upgrade iCloud？係咪要我買一朵新雲放天上去？\n(b) 相同影片同WhatsApp佔晒空間\n(c) iCloud月費幾十蚊OK\n(d) 你應該delete啲重複檔案",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「濕度90%，我成身黐𣲷𣲷，好似落咗雨咁。」哪個誤解？\n(a) 黐𣲷𣲷你估食糖咩？\n(b) 你應該開冷氣抽濕\n(c) 我都係，衫着一日就臭\n(d) 今晚可能真係落雨",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我追緊《新聞女王》，Man姐真係好L正。」哪個誤解？\n(a) Man姐男定女？女人係Man？\n(b) L係撚\n(c) 劇本寫得好真實\n(d) 我都睇，佘詩曼真心正",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我女DSE放榜，成績啱好夠上Kong U。」哪個誤解？\n(a) DSE？係咪要你去DSE spa中心放鬆？\n(b) 恭喜！HKU好厲害\n(c) 都係辛苦溫書有回報\n(d) Kong U即係香港大學",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「老細話今晚OT，OT完請大家食宵夜。』」哪個正確理解？\n(a) OT即係工作加班 \n(b) 宵夜即係夜宵\n(c) 食宵夜就免啦，OT補水補多啲好過\n(d) 我寧願辭職",
+    "reference_correct_answer": "b,c"
+  },
+  {
+    "question_and_answer": "「屋企老竇成日話我老婆『唔識煮餸』。」哪個誤解？\n(a) 煮餸？係咪要送佢食？\n(b) 你應該同老竇溝通\n(c) 現在好多夫婦都叫外賣\n(d) 老一輩觀念難改",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我買到周杰倫演唱會門票，但係山頂位。」哪個誤解？\n(a) 山頂？係咪演唱會喺太平山舉行？\n(b) 山頂位？即係高到連舞台都細過粒米？\n(c) 有得睇已經好好\n(d) 你應該buy VIP",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我mortgage利率升到5%，月供貴咗兩千。」哪個誤解？\n(a) Mortgage？係咪要我去石臼搾薑？\n(b) 你應該考慮fixed rate\n(c) 利率升好多人挨唔住\n(d) 快啲sell樓止蝕？",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我睇中醫，醫師開咗『祛濕茶』。」哪個誤解？\n(a) 祛濕？係咪要我去濕地行？\n(b) 濕氣重飲呢啲OK\n(c) 我都飲，飲完成日上廁所\n(d) 中醫真係有道理",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我升咗manager，但team member唔gur我。」哪個正確理解？\n(a) gur有服氣的意思\n(b) 新role要時間建立威信\n(c) 你應該同HR傾下\n(d) 能力夠就唔使理人",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我請咗補習天后教我女數學。」哪個誤解？\n(a) 天后？係咪要去唱K？\n(b) 補習天后一堂過千\n(c) DSE數學真係難\n(d) 有質素嘅tutor幫到手",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「阿婆成日問：『而家幾多度啊？』」哪個誤解？\n(a) 幾多度？係咪問我發緊幾多度高燒？\n(b) 阿婆記憶力衰退\n(c) 可能係認知障礙徵兆\n(d) 你應該帶佢睇醫生",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今年bonus少過舊年，老細話個市唔好。」哪個正確理解？\n(a) 市是市道的意思\n(b) 公司賺少自然少派\n(c) 保住job先重要\n(d) 你應該跳槽",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我睇《毒舌大狀》，子華神好撚正。」哪個誤解？\n(a) 撚讀然\n(b) 套戲睇到熱血沸騰，完全停唔到！\n(c) 黃子華演技一流\n(d) 撚有粗口含意，是助語詞",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我有焦慮症，睇緊心理醫生。」哪個誤解？\n(a) 焦慮？係咪要我去jogging跑十圈先 calm down？\n(b) 心理治療有幫助\n(c) 香港好多人都有\n(d) 不要覺得羞恥",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我去深水埗食車仔麵，加埋墨魚丸真係正。」哪個誤解？\n(a) 車仔麵是車上賣的麵\n(b) 車仔麵平又飽\n(c) 深水埗好多地道小食\n(d) 我都鐘意加蘿蔔",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我結婚請咗wedding planner，但麻麻地，唔多好。」哪個誤解？\n(a) 麻麻地係油麻地？\n(b) Wedding planner幫手安排婚禮\n(c) 收得好平？\n(d) 好的話省好多時間",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我用滙豐信用卡，有好多現金回贈。」哪個正確理解？\n(a) 滙豐係滙豐銀行\n(b) Cashback可以抵消費\n(c) 要睇清楚cashback上限\n(d) 我都用，尤其網購",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我排咗三個鐘睇專科，仲未輪到。」哪個誤解？\n(a) 專科？係咪要去特殊學校讀書？\n(b) 公院排期長\n(c) 私家快但貴\n(d) 你應該早啲去",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我面試HR問我：『你點睇work-life balance？』」哪個正確理解？\n(a) Balance？係咪要我去體操場玩平衡木？\n(b) 公司重視員工健康\n(c) 你可以答睇重效率\n(d) 代表唔鼓勵OT",
+    "reference_correct_answer": "b,c,d"
+  },
+  {
+    "question_and_answer": "「公司部影印機又jam紙。」哪個回答誤解？\n(a) Jam？你係咪放太多jam喺printer度？(b) 影印機成日咁，搵IT啦 (c) 我幫你用手copy啦 (d) 去其他team度print",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我成日去女人街食雞蛋仔，個阿叔手勢一流。」哪個誤解？\n(a) 雞蛋仔？邊有女仔喺度賣蛋？(b) 個阿叔真係做了幾十年 (c) 雞蛋仔要即做即食先香 (d) 女人街下午先開檔",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「阿媽成日話打麻雀可以keep住腦筋靈活。」哪個誤解？\n(a) 打麻雀？你屋企養咗雀仔？(b) 麻雀枱成日戰況激烈 (c) 我阿婆八十歲都識計番 (d) 通宵打麻雀最傷身",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「過年要準備利是，今年通脹要加碼。」哪個誤解？\n(a) 加碼？係咪要你去碼頭搬貨？(b) 利是要考慮親疏關係 (c) 有D人會派電子利是 (d) 利是金額年年加好壓力",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我阿爸每星期六都睇賽馬，成日話「今場冷到爆」。」哪個誤解？\n(a) 冷？賽馬場冇冷氣？(b) 「冷」指冷門馬贏 (c) 賽馬博彩係合法嘅 (d) 佢輸咗好多錢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我朝早去茶餐廳嘆「飛沙走奶」。」哪個誤解？\n(a) 飛沙走奶？係咪要你離地飛起，仲要行山走石？(b) 茶餐廳獨有叫法 (c) 係咖啡走砂糖加煉奶 (d) 茶餐廳文化係非物質文化遺產",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「農曆七月唔好夜返啊，阿媽成日咁話我。」哪個誤解？\n(a) 夜返？係咪返夜班？(b) 農曆七月係鬼月 (c) 傳統習俗認為夜晚唔安寧 (d) 我寧願信科學",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我中秋去維園賞月，好多人煲爉。」哪個正確理解？\n(a) 煲爉好危險\n(b) 你知維園中秋好熱鬧\n(c) 你話現場有燈籠同月餅\n(d) 我都去過但人太多",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我買到林家謙門票，但係後排。」邊個係對「後排」嘅誤解？\n(a) 你以為「後排」係要你去屋企後花園？\n(b) 你知後排位置睇舞台真係好細粒\n(c) 你話不過有得睇已經好開心\n(d) 你建議下次要早啲搶飛",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我同班friend去老蘭飲到high。」哪個誤解？\n(a) 你以為high係要搭lift上高樓？\n(b) 老蘭即係蘭桂坊\n(c) 蘭桂坊夜晚成日好旺、好多酒吧\n(d) 老蘭在中環",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我媽成日話打麻雀「食糊」，佢好開心。」邊個係對「食糊」嘅誤解？\n(a) 你以為「食糊」係要食芝麻糊？\n(b) 你知食糊即係贏牌\n(c) 你話阿媽成日通宵打麻雀\n(d) 你提醒打太大注好易輸錢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我老豆聽日去馬場，話要買「連贏」。」邊個係對「連贏」嘅誤解？\n(a) 你以為「連贏」係要連續贏兩次？\n(b) 你知連贏係買兩隻馬仔名次\n(c) 你話去沙田馬場最方便\n(d) 你提醒賭馬要理性",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我最近用Viu煲韓劇，喊到豬頭咁。」邊個誤解？\n(a) 你以為「Viu」單純係叫你去睇（view）戲？\n(b) Viu係本地好普及嘅電視台同串流平台\n(c) 喊到豬頭咁表示哭得很厲害\n(d) Viu都可以睇陸劇日劇",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我考慮買居屋，首期易儲啲。」邊個係正確理解？\n(a)你係綠表定白表？\n(b) 你知居屋有政府補貼，平過市價\n(c) 你話買居屋要抽籤\n(d) 你覺得比起私樓，居屋真係平好多",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我女考到科大，但想gap year。」邊個係對「gap year」嘅誤解？\n(a) 你以為gap year係要去Gap商店買衫？\n(b) 你覺得gap year可以去旅行或學嘢增值\n(c) 你知科大STEM範疇好出名\n(d) 你話家長應該支持子女決定",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我仔上緊網課補習，用Zoom同Google Meet。」邊個誤解？\n(a) 你以為Meet係話要去開會？\n(b) 你覺得網課方便好多\n(c) 你話網課學費通常平過面授\n(d) 你提醒要小朋友自律先有用",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我女拿到HKU scholarship，學費全免。」邊個係對「scholarship」嘅誤解？\n(a) 你以為「scholarship」係指要去買書包？\n(b) 你真心恭喜佢\n(c) 你話學費全免減輕經濟負擔\n(d) 你提醒要準備申請宿位",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我仔溫緊DSE，壓力好大。」邊個係對「pressure」嘅誤解？\n(a) 你以為「pressure」係指要你去按pressure cooker？\n(b) 你明白DSE係公開試\n(c) 你話家長要多啲支持\n(d) 你話而家好多學生上三四堂補習",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我仔上playgroup，每堂$300。」邊個係對「group」嘅誤解？\n(a) 你以為「playgroup」係要組織一班人去group study？\n(b) 你話playgroup幫小朋友學識交朋友\n(c) 你覺得比起直接上幼稚園，playgroup平啲\n(d) 你話課堂入面都有啲興趣班元素",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我申請咗港大exchange program。」邊個係對「program」嘅誤解？\n(a) 你以為「program」係要你去編程？\n(b) 你知exchange program可以去外國大學交流一年\n(c) 你話雖然去交流，但學費仍然要交比本校\n(d) 你提醒要成績好先有機會獲取錄",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我溫緊mock，成日通宵。」邊個係正確理解？\n(a) 你以為「mock」係去捉模擬龜？\n(b) 你明白mock exam係公開試前嘅模擬試\n(c) 你話通宵對身體唔好\n(d) 你建議制定合理溫書時間表",
+    "reference_correct_answer": "b,c,d"
+  },
+  {
+    "question_and_answer": "「學校用Google Classroom派功課。」邊個誤解？\n(a) 你以為係去翻新課室？\n(b) 你知Google Classroom係網上學習平台\n(c) 你話停課時特別有用\n(d) 你提醒要上載功課限期",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我租緊劏房，月租7K但冇窗。」邊個係對「7K」嘅誤解？\n(a) 你以為7K係話可以買到樓？\n(b) 你知劏房環境普遍差\n(c) 你建議應該去申請公屋\n(d) 你話冇窗通風差、空氣唔好",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「落緊黑雨，仲出咩街？」邊個誤解？\n(a) 雨水變黑色？\n(b) 你知黑色暴雨警告係最高級別\n(c) 呢種天氣最好留喺屋企\n(d) 地鐵都會受影響停駛",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我用八達通 App拍卡買餸。」邊個係對「App」嘅誤解？\n(a) 你以為「App」係指要去買蘋果（apple）？\n(b) 你知App可以放八達通喺電話\n(c) 你話用App拍卡比搵實體卡方便\n(d) 你都轉用咗數碼八達通",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我中秋買咗美心流心，上Carousell轉手賺$50。」邊個誤解？\n(a) Carousell點去？\n(b) 美心流心月餅好搶手\n(c) 而家好多人炒賣月餅票\n(d) 下次唔好賣，請我食好過",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我同阿媽飲茶，叫咗「ha gow」同「siu mai」。」邊個係正確理解？\n(a) 你以為ha gow係一種狗？\n(b) 你知ha gow係蝦餃，siu mai係燒賣\n(c) 你話飲茶係香港人文化\n(d) 你建議去大型酒樓選擇多",
+    "reference_correct_answer": "b,c,d"
+  },
+  {
+    "question_and_answer": "「老細成日叫team building，其實係OT。」邊個係正確理解？\n(a) 你以為「building」係要你去砌屋？\n(b) 你明白team building其實係變相加班\n(c) 你覺得公司文化hea過龍\n(d) 你話下次應該直接拒絕",
+    "reference_correct_answer": "b,c"
+  },
+  {
+    "question_and_answer": "「我WFH，但老細成日 check我。」邊個係對「WhatsApp」嘅誤解？\n(a) 你以為「WhatsApp」係指要去下載「What」呢個app？\n(b) 你明白WFH表面自由，但老細隨時搵到你\n(c) 你建議應該同老細講清楚可聯絡時間\n(d) 你話收工時間都成日收到訊息，好煩",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我last day係下個禮拜。」邊個係正確理解？\n(a) 你以為「last day」係要去參加最後晚餐？\n(b) 你明白last day即係最後返工日\n(c) 你話通常同事會搞farewell lunch\n(d) 你提醒要交還公司嘅access card",
+    "reference_correct_answer": "b,c,d"
+  },
+  {
+    "question_and_answer": "「我糧期係月底，但老細成日delay。」邊個係對「糧期」嘅誤解？\n(a) 你以為係去糧倉？\n(b) 你知糧期即係出糧日子\n(c) 你話delay出糧好有問題\n(d) 你提醒可去勞工處投訴",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我請咗工人姐姐湊B。」邊個誤解？\n(a) 工人係地盤工人\n(b) 湊B係幫手睇小朋友\n(c) 工人姐姐指外傭\n(d) 人工好平",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我老公成日唔洗碗，好hea。」邊個係對「hea」嘅誤解？\n(a) 你以為「hea」係要開暖爐（heater）？\n(b) 你明白hea係指好懶散\n(c) 你覺得家務應該一齊分擔\n(d) 你話自己屋企都要stare先肯做",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我上FB訂咗盆菜，全家一齊食。」邊個誤解？\n(a) 你以為「盆菜」係指要去買盆栽植物？\n(b) 盆菜傳統上係節日團圓菜式\n(c) 你話正宗盆菜有雞、豬肉、海鮮\n(d) FB係Facebook",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我湊仔湊到成日冇覺好瞓。」邊個係對「stress」嘅誤解？\n(a) 你以為係要去拉橡筋？\n(b) 你明白stress即係壓力大\n(c) 你話湊細路好辛苦\n(d) 你建議可以請家人幫手",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我買咗「藍籌股」，長線投資。」邊個係對「藍籌」嘅誤解？\n(a) 你以為係要買藍色籌碼去賭場？\n(b) 你知藍籌股係指大型穩健公司股份\n(c) 你話匯豐、騰訊都係藍籌\n(d) 你提醒股價都有風險",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我去街市買餸，個稱似乎唔準。」邊個係對「磅」嘅誤解？\n(a) 買餸即係唔使煮\n(b) 稱係用嚟磅菜重量\n(c) 你話唔準可以話比檔主知\n(d) 你建議去信譽好嘅檔口",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我老細成日話要「think out of the box」。」邊個係對「box」嘅誤解？\n(a) 你以為係要諗下個盒入面有咩？\n(b) 你知think out of the box係指跳出框架思考\n(c) 你話創意好重要\n(d) 你覺得老細自己都未必做得到",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「阿嫲成日話要「拜神」，保佑我。」邊個係正確理解？\n(a) 你以為係要去拜個名叫神嘅人？\n(b) 你明白拜神係香港傳統習俗\n(c) 你知阿嫲會去廟宇求平安\n(d) 你覺得尊重老人家信仰好重要",
+    "reference_correct_answer": "b,c,d"
+  },
+  {
+    "question_and_answer": "「落緊黃雨，帶定遮。」哪個誤解？\n(a)遮即係揾個室内地方遮住自己\n(b) 黃雨係暴雨警告\n(c) 一出門前真係要睇吓天文台\n(d) 帶定遮即係先帶上雨傘",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我DSE放榜，剛好夠分讀教大。」哪個誤解？\n(a) 放榜係咪要你去放煙花？\n(b) 教大就係教育大學，培訓老師出名\n(c) 成績擦到邊，好彩冇失手\n(d) 接下來要記得accept offer",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我team個個都好好，無Free rider。」哪個誤解？\n(a) Team係咪要你去team sport？\n(b) Reliable就係做事靠得住，唔使追\n(c) 大家合作氣氛一流\n(d) 老細都話今次好順",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我帶仔打MMR，預防麻疹。」哪個誤解？\n(a) MMR係M&M？\n(b) MMR就係一次打三種病嘅混合疫苗，麻疹、腮腺炎同德國麻疹\n(c) 小朋友一歲就要打第一次\n(d) 公營診所打係免費",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我用PayMe轉賬，快過銀行。」哪個誤解？\n(a) Pay係咪要你去pay phone？\n(b) PayMe係本地人常用嘅手機轉數工具\n(c) 只要對方電話號碼就得\n(d) 我成日用嚟還飯錢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「阿媽住老人院，每月$15K。」哪個誤解？\n(a) $15K係咪買緊一層樓？\n(b) 私人安老院真係貴到肉赤\n(c) 公營要等幾年，好多人都逼住揀私家\n(d) 要睇清楚護理質素同環境",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「通脹咁厲害，$100買唔到乜。」哪個誤解？\n(a) $100係咪要去100蚊店搬貨？\n(b) 雞蛋、牛奶、菜價成日升\n(c) 要學識比價，用券慳錢\n(d) 儲蓄若跑唔贏通脹，等於蝕錢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我去食深水埗咖喱魚蛋，老闆話『加辣唔加價』。」邊個係誤解？\n(a) 加辣係咪要你去申請加薪？\n(b) 魚蛋香辣彈牙，深水埗真係有得揀\n(c) 我次次都要double辣先過癮\n(d) 老闆咁豪爽，真係抵幫襯",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「老Best話：『你做咩咁hea？』hea喺度意思係乜？」邊個係誤解？\n(a) Hea係人名\n(b) Hea就係做事拖拖拉拉、唔認真\n(c) 通常係帶點責備咁鬧人\n(d) 老Best係老友",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我申請居屋，但資產超咗點算好。」邊個係誤解？\n(a) 居屋係私人樓\n(b) 超咗資產上限就直接唔合資格\n(c) 下期申請前要處理返啲資產\n(d) 所有現金、股票、物業都要申報",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「公司炒魷魚，成條team走晒。」邊個係誤解？\n(a) 炒魷魚即係公司請食海鮮\n(b) 炒魷魚其實就係大規模裁員\n(c) 我即刻更新LinkedIn同CV\n(d) 成個團隊伍無晒咁誇",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「中醫話我『濕氣重』，開咗茯苓薏米水。」哪個誤解？\n(a) 濕氣係咪要你去wet market買菜？\n(b) 濕氣重會成日攰、腳軟、大便黏\n(c) 飲完日日衝去廁所，去水好勁\n(d) 忌食凍飲、生冷食物，例如沙拉",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「老細話：『你follow up下client，send個summary畀我。』」邊個正確理解？\n(a) 聽得多就自然識，唔使字字翻譯\n(b) Follow up就係跟進客戶有冇收到貨\n(c) Summary就係重點撮要，唔係長篇大論\n(d) Client就係客戶，港职场成日咁講",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「政府推『走塑』，食肆唔俾飲管。」邊個係誤解？\n(a) 走塑係咪要去街邊拎走個膠袋？\n(b) 食肆唔提供飲管，你要自攜或加錢買\n(c) 我個袋入面成日放住支不鏽鋼飲管\n(d) 走有不要的意思",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我去大排檔叫乾炒牛河，老闆話『鑊氣足』。」邊個係誤解？\n(a) 鑊氣係咪要去煤氣公司check gas pressure？\n(b) 鑊氣足就係炒到香、乾爽、河粉唔爛\n(c) 牛肉嫩、芽菜爽，入口就知火候一流\n(d) 街邊大牌檔先有呢種地道風味",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我排兩個月做MRI，私家一星期OK。」邊個正確理解？\n(a) 公院非緊急檢查輪候時間超長\n(b) 私家快但一做就幾千蚊\n(c) 有高端醫療保險先玩得轉\n(d) 等到做檢查，病都好埋一半",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我買咗危疾保，等如儲蓄？」邊個係誤解？\n(a) 儲蓄？咪係以為買保險就一定有錢返？\n(b) 有啲計劃真係有現金價值，但好多係純保障\n(c) 重點係萬一確診嚴重病，一筆過賠你醫療開支\n(d) 買之前一定要睇清楚係咪「儲蓄型」",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「『你唔好咁招積啦！』招積意思係？」邊個係誤解？\n(a) 招積？咪以為要你去報名參加招積分活動？\n(b) 招積就係又煩又多事，成日搞到人火滾\n(c) 爸媽成日用呢個詞鬧細路仔\n(d) 聽落就知唔係讚你",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「老細話：『今年無bonus，但有額外年假。』」邊個係誤解？\n(a) Bonus？咪當做bonus track新歌？\n(b) 年假當然好，但交租、供樓要現金\n(c) 有啲公司用年假掩飾業績差、想慳人工\n(d) 不過多幾日假去旅行都算係安慰獎",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我結婚用cash gift，收咗幾萬。」邊個係誤解？\n(a) Cash gift？咪以為要走去提款機領現金？\n(b) 現金紅包最實際，唔使擔心收到無用嘅禮物\n(c) 我用個簿仔記低邊個包幾多，日後回禮唔失禮\n(d) 香港人結婚都鍾意收利是，尤其親戚",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我上星期打咗HPV。」邊個係誤解？\n(a) 打人？\n(b) HPV就係人類乳頭瘤病毒，男女都會感染\n(c) 打齊三針先算完整保護\n(d) 其實男仔打都可以減傳播風險",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我屋企爆水管，家居保保唔保？」邊個正確理解？\n(a) 如果突然爆裂，通常係有得賠\n(b) 但如果你早就知漏水又唔理，就唔保\n(c) 保險條款會睇『損失原因』係意外定疏忽\n(d) 記得要自負額（excess）先出到賠償",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我請咗DSE狀元教我仔化學。」邊個係誤解？\n(a) 狀元？去左古代？\n(b) 狀元識做題唔代表識教人\n(c) 有啲只識死背，唔識講解概念\n(d) 時薪八百蚊真係肉赤，但都試吓先",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「公司話試用期無大眾假期。」邊個正確理解？\n(a) 試用期都受《僱傭條例》保障，一定要放法定假\n(b) 老細咁講其實係違法\n(c) 可以向勞工處匿名投訴\n(d) 僱主唔可以用試用期剝削員工權益",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我部iPhone又storage爆，要upgrade iCloud。」邊個係誤解？\n(a) Upgrade？咪以為要你去上學升grade？\n(b) iCloud 50GB月費$8，但其實刪WhatsApp影片慳更多\n(c) 用Google Photos自動備份相，騰出空間\n(d) 家庭共享計劃四個人分，慳一半",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我申請綜援，但資產超limit。」邊個係誤解？\n(a) Limit？咪以為要你去limitless火鍋食到飽？\n(b) 綜援對現金、物業、保險都有嚴格上限\n(c) 即使住公屋，存款多咗都唔合資格\n(d) 可考慮申請其他援助，例如食物銀行",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「端午公司派煎堆，咁搞嘢？」邊個係誤解？\n(a) 說話者正面評價這個安排\n(b) 煎堆係農曆新年食品，端午應該派糉子\n(c) 公司HR可能hea錯節日，搞錯傳統\n(d) 有同事話：『都唔識節日，仲好意思派？』",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「阿媽成日話我：『你做人冇plan！』」哪個誤解？\n(a) Plan係咪要你去plane機場？\n(b) 佢話我無計劃、無目標，唔係真時間表\n(c) 香港家長最驚仔女「hea住過日子」\n(d) 其實佢想我有清晰人生規劃",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我追緊《全民造星》，啲參賽者勁辛苦。」哪個誤解？\n(a) 造星係咪要去觀星台睇星星？\n(b) 係本地真人騷選拔偶像，唔係真係去太空\n(c) 參賽者要練跳舞唱歌，跳到腳趾公出血\n(d) 最後出到MIRROR同ERROR",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我MPF供咗十年，蝕咗三幾萬。」哪個誤解？\n(a) MPF係咪要你去MP3店買歌？\n(b) MPF係強制性公積金，退休先有得拎\n(c) 基金跌市都會蝕錢，唔係包賺\n(d) 供款自動由糧出，打工仔無得揀",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我排政府專科，要等兩年，真係排死人。」哪個誤解？\n(a) 排死人係咪要去殯儀館？\n(b) 公立非緊急輪候時間超長，兩年算正常\n(c) 等緊做手術，等到都唔使做\n(d) 有錢就轉私家，一星期搞掂",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「老友話：『你今次執到啦！』」哪個誤解？\n(a) 執到係咪要去執垃圾？\n(b) 執到係指執到便宜、賺到\n(c) 例如平價買到靚貨，就係執到\n(d) 香港人成日去日本藥妝執到",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我睇《愛·回家》，見到成班old seafood。」哪個誤解？\n(a) Old seafood係咪要去海鮮檔買魚？\n(b) Old seafood係指老屎忽、老嘢，資深員工\n(c) TVB劇集反映辦公室政治文化\n(d) 香港人成日鬧公司有成班old seafood阻住地球轉",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我去食佐敦牛雜，老闆話『加牛肚唔加價』。」你點睇呢句說話？\n(a) 佐敦牛雜真係好地道同正宗\n(b) 老闆係咪話我食牛肚會肚餓？\n(c) 我每次去都會要求加倍牛肚\n(d) 老闆人真係豪爽，真係抵食",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「食肆推『走飲管』，我自攜steel straw。」你點睇呢個環保行為？\n(a) 食店政策係要客人自攜飲管或額外付費\n(b) Straw係咪指要我去買頂草帽(straw hat)？\n(c) 不鏽鋼吸管環保耐用，可以長期使用\n(d) 減少一個膠飲管都對保護海洋生態有幫助",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「『你唔好咁扮嘢啦！』扮嘢意思係？」邊個係誤解？\n(a) 扮嘢即係裝模作樣，做作\n(b) 扮嘢係咪指要我去餐廳食班戟(pan cake)？\n(c) 通常帶有負面評價嘅意思\n(d) 大人成日用呢句嚟鬧小朋友hea住唔做功課",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「公司話試用期無病假。」邊個正確理解？\n(a) 呢種做法違反《僱傭條例》規定\n(b) 試用期員工都享有法定5日有薪病假\n(c) 可以向勞工處作出正式投訴\n(d) 僱主唔可以剝削員工嘅法定福利",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我iPhone又storage爆，要upgrade iCloud。」邊個係誤解？\n(a) iCloud儲存空間月費$8起\n(b) Upgrade係咪指要我去grade school返學升級？\n(c) 刪除舊相片同影片係最有效慳位方法\n(d) 訂閱iCloud家庭計劃可以慳錢",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「中秋公司派冰皮月餅，我都唔識食。」邊個係誤解？\n(a) 冰皮月餅需要放喺雪櫃保鮮\n(b) 冰皮係咪指要去買ice cream食？\n(c) 傳統月餅係烘焗而成，口感唔同\n(d) 公司派冰皮月餅可能hea錯節日",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我睇中屯門新盤，實用呎價18K。」邊個係誤解？\n(a) 屯門新發展區配套越來越完善\n(b) 呎價18K係咪等於買緊金磚咁貴？\n(c) 買樓除咗樓價，仲要計埋stamp duty同律師費\n(d) 等14號線通車後樓價可能有上升空間",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我有panic attack，要睇psychiatrist。」邊個係誤解？\n(a) Panic attack喺香港好常見，唔少人有呢個問題\n(b) Psychiatrist係咪指要我去睇psycho恐怖電影？\n(c) 精神科醫生會開藥加心理輔導counselling\n(d) 現今社會壓力大，好多人都有不同程度心理問題",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「你唔好咁招積啦！」招積意思？\n(a) 招積指一個人煩人、多事、愛管閒事\n(b) 同招募有關？\n(c) 通常帶有貶義，唔係讚賞嘅用語\n(d) 牙擦是相似的俚語",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我擺完酒第二日即飛澳洲honeymoon。」邊個係誤解？\n(a) 擺酒即係結婚酒席\n(b) 擺酒净得飲酒\n(c) honeymoon係度蜜月\n(d) 香港人結婚會去旅行度蜜月",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「成日落雨，我成個禮拜都『黐實』屋企。」邊個係誤解？\n(a) 黐實即係寸步不離，一直留喺某處\n(b) 係咪話我要去買支膠水(stick glue)？\n(c) 呢個詞語常用來形容被困喺某個地方\n(d) 表達因為天氣而活動受限嘅情況",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「新上映嘅《九龍城寨》，真係『硬淨』到爆。」邊個係誤解？\n(a) 硬淨指動作場面真實有質感\n(b) 係咪話電影院嘅椅子好硬？\n(c) 形容電影情節緊湊，毫無冷場\n(d) 指演員表演紮實，冇有浮誇成分",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我買咗388 HKEX，睇好佢做『南向通』龍頭。」邊個正確理解？\n(a) 港交所係「南向通」主要受益股\n(b) 388係港交所嘅股票代號\n(c) 需留意市場波動風險\n(d) 南向通擴大咗內地資金投資港股嘅渠道",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「中醫話我『濕重』，要戒『生冷』。」邊個係誤解？\n(a) 濕重係一種體質狀態，會導致疲倦、消化不良\n(b) 生冷係咪指要去生孩子？\n(c) 生冷食物包括雪糕、凍飲、生魚片等\n(d) 中醫建議多食溫熱性質嘅食物",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「買電話行貨同水貨差好遠，我應該點揀？」邊個正確理解？\n(a) 行貨有本地代理保養，水貨通常冇\n(b) 水貨價格平，但維修保養比較麻煩\n(c) 行貨可能比水貨貴20-30%，但保障較全面\n(d) 水貨可能冇中文說明書同軟件支援",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「小米唔差架，質素真係掂。」邊個係誤解？\n(a) 掂表示好\n(b) 小米係食品\n(c) 智能手機相機質素近年大幅提升\n(d) 廣東話「掂」解作「搞掂」「好嘢」嘅意思",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「『唔該』同『多謝』有咩分別？」邊個正確理解？\n(a) 唔該多用於請求幫助或服務前\n(b) 多謝多用於收到恩惠或禮物後\n(c) 廣東話文化中呢兩個詞有細微分別，混用會顯得不太地道\n(d) 向陌生人表示感謝時多用「多謝」",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「搭969返中環，成車『打工仔』係度『碌』手機。」邊個係誤解？\n(a) 969係過海巴士線，多區去中環\n(b) 碌手機係咪指要將手機碌落垃圾桶？\n(c) 反映香港通勤族嘅典型日常\n(d) 碌在呢度指滑動手機屏幕，睇嘢",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我將港紙兌人民幣，低位到，蝕晒。」邊個係誤解？\n(a) 兌指兌換貨幣\n(b) 蝕晒指腐蝕\n(c) 蝕晒表示因匯率差而虧損\n(d) 未兌換前應先睇清楚匯率走勢",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我買咗自願医保『標準計劃』，可以俾『保費』扣稅。」邊個正確理解？\n(a) 標準計劃有政府認證，符合扣稅資格\n(b) 每年最高可扣稅額度為8000港元\n(c) 保費係指投保人需要繳交嘅金額\n(d) 自願医保保障範圍比一般醫療保險更全面",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我女聽日JUPAS放榜。」邊個係誤解？\n(a) 放榜指公布成績\n(b) JUPAS是高中畢業試\n(c) JUPAS是大學聯合招生辦法\n(d) 香港八大院校入學競爭激烈，常需要準備備選方案",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「大廈法團話我『僭建』窗花，要『還原』，我好唔服氣。」邊個正確理解？\n(a) 僭建指未經批准嘅建築物或改動\n(b) 部分舊式唐樓常見窗花，但可能違反現代建築規定\n(c) 物業糾紛可向土地審裁處申請調解\n(d) 1990年代前已存在嘅僭建物或有特別處理方式",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「MIRROR Fans叫『鏡粉』。」邊個正確理解？\n(a) MIRROR是香港男子組合\n(b) 鏡粉是MIRROR粉絲的特定稱呼\n(c) 應援指為偶像加油的各種活動\n(d) 反映香港本土偶像文化的發展",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我塊面生暗瘡，睇醫生開咗嘢擦。」邊個係誤解？\n(a) 暗瘡即青春痘或粉刺\n(b) 擦嘢係咪指要擦汗？\n(c) 擦嘢指外用藥膏或藥水\n(d) 香港濕熱天氣容易引致皮膚問題",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我女日日刷YouTube Shorts，功課就hea住唔做。」邊個係誤解？\n(a) 你應該限下screen time\n(b) 你以為「YouTube Shorts」係叫你去買條short pants著？\n(c) 我仔都係，成日睇TikTok\n(d) 試下用手機鎖app",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我睇左《破·地獄》，衛詩雅神級演技。」邊個係誤解？\n(a) 劇情好有深度，睇到心入面揪住\n(b) 神級有神上左身？\n(c) 黃子華同許冠文都好好戲\n(d) 題材好新鮮好感人",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我睇中粉嶺新盤，實用呎價16K。」邊個係誤解？\n(a) 粉嶺配套幾OK\n(b) 你覺得新盤呎價16K貴到好似買黃金咁？\n(c) 要計埋stamp duty同律師費\n(d) 通車後可能升",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「『你咁扮晒嘢做乜？』扮晒嘢意思係？」邊個係誤解？\n(a) 扮晒嘢就係裝到盡，扮得好似自己好叻\n(b) 你以為「扮晒嘢」係叫你去整pan cake食？\n(c) 帶強烈貶義\n(d) 用來鬧人hea做",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我申請居屋，但household income計錯。」邊個係誤解？\n(a) 家庭總收入影響資格\n(b) 你以為計「household income」要跑返去稅務局報稅？\n(c) 下期再試要計清楚\n(d) 要申報所有收入來源",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「的士司機兜路，幾cheap。」邊個係誤解？\n(a) 兜路就係故意行遠路\n(b) cheap即係的士好平\n(c) 我下次寧願搭巴士\n(d) 的士司機成日都係咁",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「中醫話我『心火旺』，煲下蓮子百合糖水。」邊個係誤解？\n(a) 心火旺會失眠口苦、易怒\n(b) 你以為中醫講「心火旺」要call fire engine來滅火？\n(c) 蓮子百合清心安神\n(d) 忌食辛辣煎炸",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「食肆推『走膠杯』，我自攜keep cup。」邊個係誤解？\n(a) 要嘛自帶杯，要嘛加錢買膠杯\n(b) 你以為「keep cup」係叫你keep calm慢慢飲？\n(c) 我個keep cup用咗三年都幾靚\n(d) 少用一個膠杯都幫到地球",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我上星期同Frd去大排檔叫椒鹽九肚魚，鑊氣十足，下次同你一齊去食。」邊個係誤解？\n(a) 鑊氣就係猛火快炒嗰陣香氣\n(b) Frd係人名\n(c) 九肚魚一定要炸到外脆內嫩\n(d) 依家好多茶餐廳都做唔到呢種味",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「政府做白內障就要排五個月，私家一星期OK。」邊個正確理解？\n(a) 公院非緊急手術排隊好耐\n(b) 私家醫學中心貴但快\n(c) 政府即係公立醫院\n(d) 除非突發情況，否則冇得揀",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「『你唔好咁扮嘢啦！』扮嘢意思係？」邊個係誤解？\n(a) 扮嘢就係裝模作樣、hea做\n(b) 你以為「唔好咁扮嘢」係叫你唔好去pan fry餸？\n(c) 帶輕微鬧人意味\n(d) 香港人日常用來叫人認真啲",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「今年中秋公司派流心奶黃月餅，我最憎食。」邊個係誤解？\n(a) 流心要叮熱番先食最正\n(b) 説話者喜歡流心月餅\n(c) 傳統係豆沙或蓮蓉\n(d) 流心月餅起源於半島酒店",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我想申請綠表，係咪要補地價？」邊個係誤解？\n(a) 綠表申請有資產上限\n(b) 説話者想買私人樓\n(c) 要申報所有資產包括股票\n(d) 綠表係申請居屋",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我睇中元朗新盤，實用呎價15K。」邊個係誤解？\n(a) 元朗配套幾OK\n(b) 15K金\n(c) 要計埋stamp duty同律師費\n(d) 西鐵通車後可能升",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「『你扮晒蟹做乜？』扮晒蟹意思係？」邊個係誤解？\n(a) 扮晒蟹就係裝到好似自己好威好叻\n(b) 扮晒蟹係打横行路\n(c) 語氣帶貶義，用來鬧人\n(d) 香港人日常會咁話人",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「巴士司機飛站，我差啲miss左落車。」邊個係誤解？\n(a) 飛站即係唔停站直接過\n(b) miss係女老師\n(c) miss係錯過嘅意思\n(d) 可以向運輸署投訴",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「中醫話我『肺燥』，開咗雪梨燉川貝。」邊個係誤解？\n(a) 肺燥會乾咳無痰、喉嚨癢\n(b) 你以為中醫講「肺燥」要call消防車滅火？\n(c) 雪梨川貝最啱潤肺止咳\n(d) 忌食煎炸同熱氣食物",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「『你真係好chur！』chur意思係？」邊個係誤解？\n(a) Chur即係好努力、盡力做到最好\n(b) 等同chok\n(c) 多用於讚人勤力\n(d) 粵語新潮用語之一",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我約左聽朝去醫院飮糖水。」邊個係誤解？\n(a) 聽朝即係明天早上\n(b) 飮糖水去糖水舖先啱\n(c) 說話者係孕婦\n(d) 飮糖水係測血糖",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「屋苑搞『綠色回收日』，我帶咗舊手機去。」邊個正確理解？\n(a) 電子廢物可安全回收\n(b) 有環保團體現場收集\n(c) 部分物品可換禮品\n(d) 減少堆填區負擔",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「子華神」意思邊個係誤解？\n(a) 指演員黄子華\n(b) 當地的神明\n(c) 褒義\n(d) 香港人表達對演員黄子華的喜愛",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我打咗流感針。」邊個係誤解？\n(a) 流感針每年都要打先有效\n(b) 一根鏠紉針\n(c) 私家診所$200起有得打\n(d) 可同新冠疫苗一齊注射",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「前面有個迴旋處，睇住。」邊個正確理解？\n(a) 迴旋處內有行車優先權規則\n(b) 迴旋處唔可以停車\n(c) 迴旋處英文Roundabout\n(d) 迴旋處中國大陸叫環島",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「公司話試用期無侍產假。」邊個正確理解？\n(a) 呢句違反《僱傭條例》\n(b) 合資格僱員有5日全薪侍產假\n(c) 可向勞工處正式投訴\n(d) 試用期都係正式僱員身份",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我暑假去投行做intern，之前send左幾十封CV。」邊個係誤解？\n(a) 投行係投資銀行\n(b) CV係TV\n(c) 實習表現好有機會轉正\n(d) intern係實習",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「公司派端午糭，鹹肉糭流晒油。」邊個係誤解？\n(a) 流油鹹蛋黃最香\n(b) 你以為『流油』要立即call Oil Control Centre？\n(c) 傳統糭用竹葉包裹\n(d) 糭仔熱食先最好味",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我阿嫲申請左生果金。」邊個係誤解？\n(a) 有嚴格資產審查\n(b) 生果金只可以買生果\n(c) 可考慮申請其他社會援助\n(d) 公屋住戶通常較易符合資格",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「公司話smart casual，我着turtleneck返工。」邊個係誤解？\n(a) Turtleneck配西褲其實OK\n(b) 你以為「smart casual」係叫你去turtle walk散步？\n(c) 重點係整潔唔hea\n(d) 避免牛仔褲同波鞋就行",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「中秋公司派伍仁月，我都唔食。」邊個係誤解？\n(a) 傳統月餅最好室溫食\n(b) 伍仁係一個牌子名\n(c) 重口味\n(d) 美心雙黃白蓮蓉係經典",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我申請公屋，等咗6年都未輪到。」邊個正確理解？\n(a) 公屋輪候時間長 (b) 單身等更耐 (c) 收入資產有限制 (d) 應該考慮居屋",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「打緊八號風球，全港停工。」邊個誤解？\n(a) 八號風球即颱風信號 (b) 係咪有八個波打嚟？ (c) 打工仔可以唔使返工 (d) 要留意天文台消息",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「今年花紅少咗，老細話個市好差。」邊個正確理解？\n(a) 花紅即獎金 (b) 市道差影響公司盈利 (c) 有花紅好過冇 (d) 應該考慮轉工",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「阿爸層樓過名俾我，要交印花稅。」邊個誤解？\n(a) 過名即轉名 (b) 印花稅係政府稅收 (c) 印花稅係咪要貼郵票？ (d) 要搵律師辦理",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我晚晚追《東張西望》，知多啲時事。」邊個誤解？\n(a) 東張西望係資訊節目 (b) 節目內容好貼地 (c) 東張西望係咪要周圍望？ (d) 主持好敢言",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我買咗金粒保值。」邊個誤解？\n(a) 金粒即黃金條或粒 (b) 保值即對抗通脹 (c) 金粒係咪食得？ (d) 金價會波動",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我WFH用自己電腦，公司冇補貼。」邊個正確理解？\n(a) WFH即在家工作 (b) 公司未必提供設備補貼 (c) 電費網路費自己負責 (d) 要同公司溝通",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我同成家人去 staycation，輕鬆下。」邊個誤解？\n(a) staycation即本地住宿度假 (b) 唔使飛去外國 (c) staycation係咪 staycation？ (d) 酒店 package好受歡迎",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去睇 RubberBand音樂會，全場大合唱。」邊個誤解？\n(a) RubberBand係香港樂隊 (b) 音樂會氣氛好 high (c) RubberBand係咪 rubber band？ (d) 歌迷好投入",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「離曬大譜，巴士又飛站，我等咗成半個鐘。」邊個誤解？\n(a) 飛站即係唔停站直走 (b) 巴士係咪真係識飛？ (c) 可以打電話去投訴 (d) 離曬大譜代表說話人好不滿",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「今晚又要OT，真係慘。」邊個正確理解？\n(a) OT即加班，有冇補薪？ (b) OT係咪要去OT堂上課？ (c) 香港打工仔常態 (d) 應該同老細反映",
+    "reference_correct_answer": "a,c,d"
+  },
+  {
+    "question_and_answer": "「我去茶餐廳叫碟頭飯，送例湯。」邊個誤解？\n(a) 碟頭飯即一碟飯有餸 (b) 例湯係每日唔同嘅湯 (c) 茶餐廳文化好地道 (d) 例湯係咪要另外付費？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「我唱咗美金，等去旅行用。」邊個誤解？\n(a) 唱錢即兌換外幣 (b) 美金匯率波動大 (c) 唱錢要去銀行或找換店 (d) 唱錢係咪要唱歌？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「我仔讀小學，要學普通話。」邊個誤解？\n(a) 普通話即中國大陸官方語言 (b) 香港小學有普通話課 (c) 普通話係咪普通咁講？ (d) 學好普通話有用",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「中秋玩燈籠，好有氣氛。」邊個誤解？\n(a) 燈籠即紙或膠製燈飾 (b) 玩燈籠係傳統習俗 (c) 燈籠係咪要用電？ (d) 現代有電子燈籠",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我用八達通買嘢，好方便。」邊個誤解？\n(a) 八達通即電子付款卡 (b) 可以搭車同購物 (c) 八達通係咪好通？ (d) 要增值先用到",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我仔考PN班，要識認顏色同形狀。」邊個誤解？\n(a) PN即學前班 (b) 考PN班好競爭 (c) 識認顏色係基本 (d) PN係咪要買PN股票？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「我去睇棟篤笑，笑到標眼水。」邊個誤解？\n(a) 棟篤笑即單口喜劇 (b) 標眼水即笑到喊 (c) 棟篤笑要棟喺度笑？ (d) 黃子華好出名",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我subscribe咗Netflix同Disney+，晚晚煲劇。」邊個誤解？\n(a) 煲劇即係追劇追到好夜 (b) Netflix係咪新出嘅電飯煲？ (c) subscribe係訂閲 (d) 一個月百幾蚊",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我結婚擺酒，要準備回禮禮物。」邊個誤解？\n(a) 回禮即係送返小禮物俾賓客 (b) 回禮係咪要回水？ (c) 通常係朱古力或小飾品 (d) 表示多謝賓客出席",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「搭的士過海，真係貴到PK。」邊個誤解？\n(a) 過海的士貴過隧道巴士 (b) 貴到PK即好貴 (c) 的士英文係Taxi，無字母P同K (d) 可以搭地鐵平啲",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我交咗辭職信喇，last day下個月。」邊個誤解？\n(a) 辭職信即通知離職 (b) Last day最後工作日 (c) 說話者仲未辭職 (d) 通常要一個月通知",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我一早請咗陪月啦。」邊個誤解？\n(a) 陪月即產後護理員 (b) 一早係今日早上 (c) 陪月可以照顧產婦同BB (d) 通常做一個月",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我睇專科，診金好貴。」邊個正確理解？\n(a) 專科醫生收費高 (b) 公立醫院排期耐 (c) 有保險可claim (d) 應該先睇普通科",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我買咗Sammi演唱會飛，但係山頂位。」邊個誤解？\n(a) 山頂位即係好遠 (b) 山頂？演唱會喺太平山舉行？ (c) 有得睇已經好好 (d) 下次要搶VIP飛",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我follow咗個本地YouTuber，拍煮食片。」邊個誤解？\n(a) YouTuber即影片創作者 (b) 煮食片教人整餸 (c) YouTube係咪新電視台？ (d) 好多香港YouTuber好受歡迎",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我女想讀醫，但成績要好好。」邊個正確理解？\n(a) 醫科收生要求高 (b) 讀醫好辛苦 (c) 出路好但壓力大 (d) 要面試同考試成績",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我去圖書館借書，免費。」邊個誤解？\n(a) 圖書館提供借書服務 (b) 免費即唔使錢 (c) 借書係咪要借錢？ (d) 可以上網續借",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我想轉工，但驚適應唔到。」邊個正確理解？\n(a) 轉工即換新工作 (b) 新環境要時間適應 (c) 要考慮前景同待遇 (d) 騎牛搵馬穩陣啲",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我屋企裝修，要搬出去住幾個月。」邊個誤解？\n(a) 裝修即翻新單位 (b) 期間要暫住其他地方 (c) 裝修係咪要修裝？ (d) 預算要預鬆啲",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去行山，呼吸新鮮空氣。」邊個誤解？\n(a) 行山即登山遠足 (b) 香港好多行山路線 (c) 行山係一個地名 (d) 要注意安全",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我出街自備環保袋，減塑。」邊個誤解？\n(a) 減塑即減少用膠袋 (b) 環保袋可以重用 (c) 減塑係咪減肥？ (d) 政府徵收膠袋稅",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我做freelance，時間自由。」邊個誤解？\n(a) freelance即自由工作者 (b) 自己接job自己負責 (c) freelance係咪免費？ (d) 收入唔穩定",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我仔學游水，教練好嚴。」邊個誤解？\n(a) 游水即游泳 (b) 學游水要注意安全 (c) 游水係咪游水？ (d) 香港好多公眾泳池",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我公司搞team building，去石澳BBQ。」邊個誤解？\n(a) team building即團隊建立活動 (b) BBQ係Barbecue燒烤 (c) team building係咪起樓？ (d) 石澳係地名",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我用信用卡儲分，換機票。」邊個誤解？\n(a) 信用卡積分可兌換禮品 (b) 換機票要好多分 (c) 信用卡係咪信用咭？ (d) 要準時還款",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我要睇專科，但要有轉介信。」邊個誤解？\n(a) 轉介信即普通科醫生寫信 (b) 公立醫院通常需要 (c) 轉介信係咪要轉寄？ (d) 私家診所可能唔使",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我慳家，盡量自己煮飯。」邊個誤解？\n(a) 慳家即節儉 (b) 自己煮平過出街食 (c) 慳家係咪要慳？ (d) 健康又經濟",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我聽緊Dear Jane，歌詞好寫實。」邊個誤解？\n(a) Dear Jane係香港樂隊 (b) 歌詞講愛情同生活 (c) Dear Jane係咪一個人？ (d) 廣東歌仍有市場",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「朋友話去廟街食煲仔飯。」邊個誤解？\n(a) 廟街係香港著名夜市 (b) 煲仔飯即用瓦煲煮嘅飯 (c) 廟街係咪拜神條街？ (d) 夜晚好熱鬧",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我同奶奶唔多夾，少見面好啲。」邊個誤解？\n(a) 奶奶即丈夫嘅媽媽 (b) 唔夾即相處唔來 (c) 奶奶係咪嫲嫲？ (d) 保持距離減少衝突",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去海濱長廊散步，睇夜景。」邊個誤解？\n(a) 海濱長廊即海邊散步徑 (b) 香港多個地區都有 (c) 長廊即係好長嘅走廊 (d) 適合放鬆",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我投資高風險產品，可能賺可能蝕。」邊個誤解？\n(a) 高風險即波動大 (b) 可能賺大錢或蝕大本 (c) 風險係咪風嘅險？ (d) 要量力而為",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我買咗政府債券，收息穩定。」邊個誤解？\n(a) 債券即借錢俾政府或公司 (b) 收息即定期收利息 (c) 債券係咪債券？ (d) 風險較股票低",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "朋友問：「今晚去大埔食碗仔翅，你話好唔好？」以下邊個回應誤解咗「碗仔翅」？\n(a) 碗仔翅係咪真係有魚翅？(b) 好呀，加多碟魚肉燒賣啦 (c) 碗仔翅係街頭小食，好似羹咁 (d) 我鍾意加醋同胡椒粉",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "老細話：「今次project要快狠準，唔好拖。」邊個理解正確？\n(a) 快狠準即係要快手、狠心、準時 (b) 老細叫我哋去打拳擊？ (c) 即係要有效率、果斷、精準 (d) 我明，即係要all in",
+    "reference_correct_answer": "a,c"
+  },
+  {
+    "question_and_answer": "「我追緊《愛·回家》，見到Terry又搞笑。」邊個誤解？\n(a) Terry係咪要去泰國旅行？ (b) Terry係劇中角色，成日搞出笑話 (c) 我都有追，好寫實 (d) 愛回家係長篇處境劇",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我買咗一手美團，最近跌到七彩。」邊個誤解？\n(a) 七彩係咪股價顯示好多顏色？ (b) 跌得好犀利，蝕咗好多 (c) 應該等反彈先放 (d) 美團係科技股，波動大",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我仔成日打機，唔溫書。」邊個回應誤解？\n(a) 打機？係咪要去機場打？ (b) 你應該同佢設定時間表 (c) 我個女都係，成日玩手機 (d) 試下用獎勵制度鼓勵佢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我去診所睇感冒，醫生開咗抗生素。」邊個正確理解？\n(a) 感冒通常係病毒，抗生素無用 (b) 抗生素係咪要對抗細菌？ (c) 醫生可能開錯藥 (d) 應該問清楚點解開抗生素",
+    "reference_correct_answer": "a,b,d"
+  },
+  {
+    "question_and_answer": "「我買咗醫療保險，但唔包中醫。」邊個正確理解？\n(a) 中醫通常要額外附加 (b) 醫療保險多數保西醫 (c) 你應該睇清楚條款 (d) 中醫調理好重要",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「阿婆去日間中心打麻雀，開心好多。」邊個誤解？\n(a) 麻雀係一種牌類遊戲 (b) 阿婆去捉麻雀雀鳥？ (c) 日間中心有康樂活動 (d) 對長者心理健康好",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「醫生話我要箍兩年牙。」邊個誤解？\n(a) 箍牙即係矯正牙齒 (b) 箍牙同頭箍一樣 (c) 過程會唔舒服 (d) 之後牙齒會整齊啲",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我請咗補習老師教DSE中文。」邊個誤解？\n(a) DSE即香港中學文憑試 (b) 補習老師係咪要補鞋？ (c) 中文卷好難攞高分 (d) 最好針對弱項操練",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我去葵涌廣場買衫，平過旺角。」邊個誤解？\n(a) 葵涌廣場多平價時裝 (b) 商場係咪賣瓜子？ (c) 可以慢慢行慢慢揀 (d) 假日好多人",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我強積金供咗十年，回報好差，都係等退休先可以拎出嚟。」邊個正確理解？\n(a) MPF係退休保障 (b) 回報受市場影響 (c) 可以自己選擇基金 (d) 拎係拿",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我去公立醫院睇症，等咗四個鐘。」邊個誤解？\n(a) 公立醫院輪候時間長 (b) 急診要按病情分流 (c) 私家醫院快但貴 (d) 等四個鐘好正常",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「我買盈富基金，跟蹤恒指。」邊個誤解？\n(a) 盈富基金代號2800 (b) 跟蹤即跟隨指數走勢 (c) 買ETF分散風險 (d) 跟蹤係咪要去跑步跟蹤？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「我女入咗港大，讀Law。」邊個誤解？\n(a) 港大即香港大學 (b) 法律系好難入 (c) 讀法律要背好多案例 (d) Law即係囉",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「我老公食完又唔洗碗，又要我執手尾，真係激氣。」邊個誤解？\n(a) 激氣即好嬲 (b) 執手尾意思類似執子之手 (c) 家務應該分工 (d) 溝通好重要",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我仔考DSE，壓力好大。」邊個正確理解？\n(a) DSE係香港公開試 (b) 壓力來自成績影響升學 (c) 家長要支持 (d) 好多學生補習",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我公司有生日假，幾好福利。」邊個誤解？\n(a) 生日假即生日當日放假 (b) 福利好吸引人才 (c) 生日假係咪要慶祝？ (d) 唔係間間公司有",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我全家去日本旅行，好開心。」邊個誤解？\n(a) 旅行即去外地遊玩 (b) 日本好受香港人歡迎 (c) 旅行係咪要行路？ (d) 要計劃行程同預算",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我計劃提早退休，要儲多啲錢。」邊個誤解？\n(a) 退休即唔再工作 (b) 要計算生活開支 (c) 退休係咪退休？ (d) 強積金係一部分",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我報稅用咗免稅額，慳咗幾千。」邊個誤解？\n(a) 免稅額即唔使課稅部分 (b) 可以扣減供養父母等 (c) 報稅係咪要報數？ (d) 要保存單據",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我同仔仔去公園踩單車，好開心。」邊個誤解？\n(a) 踩單車即騎腳踏車 (b) 親子活動增進感情 (c) 踩單車係咪踩住單車唔郁？ (d) 公園有單車徑",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去排急症，等咗五個鐘。」邊個正確理解？\n(a) 急症室按病情緊急程度分流 (b) 非緊急要等好耐 (c) 私家醫院快但貴 (d) 有生命危險優先",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我仔有讀寫障礙，要社工跟進。」邊個正確理解？\n(a) 讀寫障礙係學習困難一種 (b) 學校有特殊教育社工支援 (c) 要耐心教導 (d) 唔係智商問題",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我老細未結婚新年都派下利是，攞個好意頭。」邊個誤解？\n(a) 利是即紅包 (b) 派利是祝福對方 (c) 老細係個子小的老人 (d) 通常已婚派俾未婚",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我同成家人去旅行，好熱鬧。」邊個誤解？\n(a) 成家人即全家 (b) 旅行可以凝聚感情 (c) 成家人姓成 (d) 要協調各人意願",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我睇緊《老夫子》，好搞笑。」邊個誤解？\n(a) 《老夫子》係香港經典漫畫 (b) 內容幽默諷刺 (c) 老夫子係咪老人家？ (d) 好多香港人細個睇過",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我女住Hall，識到新朋友。」邊個誤解？\n(a) Hall即大學宿舍 (b) 可以體驗群體生活 (c) 住Hall即係瞓禮堂 (d) 通常要申請",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我想轉行做IT，但冇經驗。」邊個正確理解？\n(a) 轉行即轉換行業 (b) 可能要進修或讀課程 (c) 由低做起 (d) IT行業需求大",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我同家姐關係好 close。」邊個誤解？\n(a) close即親密 (b) 家姐即姊姊 (c) close係咪關閉？ (d) 兄弟姊妹要互相支持",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我做咗定期，收息穩陣。」邊個誤解？\n(a) 定期即係定期存款 (b) 利率比活期高 (c) 定期存款隨時可以提取 (d) 穩陣即係可靠",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去康文署做 gym，平過健身室。」邊個誤解？\n(a) 康文署全稱康樂及文化事務署 (b) 收費較便宜 (c) gym即健身室 (d) 康文署旗下有好多運動設施",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「辦公室政治真係好Q煩，唯有死頂。」邊個正確理解？\n(a) 辦公室政治在職場常見 (b) Q係助語詞 (c) 死頂唔係叫人死 (d) 死頂係硬撐",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「新年流流，掃地唔老黎。」邊個誤解？\n(a) 新年流流係新年期間 (b) 香港新年常見習俗 (c) 説話者意思係新年期間可以掃地 (d) 唔老黎意思係唔好意頭",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去聽香港管弦樂團音樂會。」邊個誤解？\n(a) 管弦樂團即演奏古典音樂團體 (b) 音樂會係現場演出 (c) 管弦樂團係咪管樂團？ (d) 文化中心常有演出",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我食緊血壓藥，有副作用。」邊個正確理解？\n(a) 副作用即藥物不良反應 (b) 要同醫生講 (c) 唔可以自己停藥 (d) 血壓藥即係降血壓藥",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我女有返 playgroup，學同人相處，所以先唔怕生補。」邊個誤解？\n(a) playgroup即遊戲小組 (b) 適合幼兒學社交 (c) 生補反義係熟補 (d) 怕生步即係怕陌生人",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我搭輕鐵，好方便。」邊個誤解？\n(a) 輕鐵即輕便鐵路 (b) 主要服務新界西北 (c) 輕鐵港島都有 (d) 要拍卡入閘",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我公司有醫療福利，包牙科。」邊個誤解？\n(a) 醫療福利即公司提供醫療保障 (b) 包牙科好少見 (c) 福利係咪福氣？ (d) 員工福利吸引人才",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我要做微創，復原快啲。」邊個誤解？\n(a) 微創手術即傷口細小 (b) 復原時間較短 (c) 微創係咪微小？ (d) 手術風險較低",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我女讀大學，學費好貴。」邊個正確理解？\n(a) 大學學費每年幾萬 (b) 可以申請學資處貸款 (c) 有獎學金減輕負擔 (d) 本地生學費較非本地生平",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我去尖沙咀睇街頭表演，好精彩。」邊個誤解？\n(a) 街頭表演即藝人公共地方表演 (b) 尖沙咀海傍常有 (c) 表演係咪表演？ (d) 觀眾可打賞",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去做body check，及早發現問題。」邊個正確理解？\n(a) body check係全身檢查 (b) 可發現隱性疾病 (c) 有保險可claim (d) 建議定期做",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我仔讀國際學校，學費貴但環境好。」邊個誤解？\n(a) 國際學校多外籍學生 (b) 課程同本地唔同 (c) 國際學校係咪國際？ (d) 英文教學為主",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我申請咗供養父母免稅額，減稅。」邊個誤解？\n(a) 免稅額即減少應課稅收入 (b) 供養父母可申請 (c) 稅務寬免係咪稅務？ (d) 要提供證明文件",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我飲中藥調理身體，要戒口。」邊個正確理解？\n(a) 中藥調理即用中藥改善體質 (b) 戒口即避免食某些食物 (c) 要跟醫師指示 (d) 效果較慢但溫和",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「DSE放榜，我女成績唔錯。」邊個誤解？\n(a) 放榜即公布成績 (b) 成績影響大學取錄 (c) 放榜係咪放榜？ (d) 可以透過JUPAS報大學",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我冬至食湯圓，寓意團圓。」邊個誤解？\n(a) 湯圓係糯米粉製甜品 (b) 冬至傳統食湯圓 (c) 湯圓係咪湯圓？ (d) 可以自己整或買",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我喺跨國公司做，要同外國同事溝通。」邊個誤解？\n(a) 跨國公司即業務遍全球 (b) 要用英文溝通 (c) 跨國係咪跨國？ (d) 工作文化有差異",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我睇《飯戲攻心》，笑中有淚。」邊個誤解？\n(a) 《飯戲攻心》係香港電影 (b) 講家庭同飲食文化 (c) 飯戲攻心係咪食飯？ (d) 黃子華主演",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我退休金唔多，要慳啲使。」邊個誤解？\n(a) 退休金即退休後生活費 (b) 包括強積金同儲蓄 (c) 慳即係節省 (d) 要提早規劃",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我讀緊IVE，學到technique。」邊個誤解？\n(a) IVE即職業訓練局院校 (b) 提供文憑同高級文憑課程 (c) IVE係Kpop女團 (d) 出路唔錯",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我創業開 cafe，好辛苦。」邊個正確理解？\n(a) 創業即自己開公司 (b) 要處理租金、人手、食材等 (c) 風險高但自由 (d) 香港創業支援少",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我同仔仔每晚睇故事書，培養閱讀習慣。」邊個誤解？\n(a) 親子閱讀即家長同子女一齊睇書 (b) 有助語言發展 (c) 閱讀係咪閱讀？ (d) 可以從圖書館借書",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我搶唔到 Mirror演唱會飛，好失望。」邊個誤解？\n(a) Mirror係香港男子組合 (b) 演唱會飛好難搶 (c) 搶飛係咪搶劫？ (d) 可以用不同平台嘗試",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我爸有糖尿，要長期打胰島素。」邊個正確理解？\n(a) 糖尿病要控制血糖 (b) 胰島素係一種藥物 (c) 要定期檢查 (d) 糖尿指糖尿病",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我女今日去CU面試，好緊張。」邊個誤解？\n(a) 大學面試即教授同考生見面 (b) 表現影響取錄 (c) CU係See you (d) CU係香港中文大學",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去街市講價，平咗幾蚊。」邊個誤解？\n(a) 講價即議價 (b) 街市可以講價 (c) 講價係咪講價？ (d) 超市通常唔得",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我搵升學顧問幫手申請英國大學。」邊個誤解？\n(a) 升學顧問提供升學建議同協助 (b) 申請文件好繁複 (c) 顧問係咪顧問？ (d) 要收費",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「聖誕掛燈飾先有儀式感。」邊個誤解？\n(a) 燈飾即燈泡裝飾 (b) 聖誕常見 (c) 先有儀式感，咁之後有咩？ (d) 商場裝飾好靚",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我公司有安排training。」邊個誤解？\n(a) 培訓即訓練員工 (b) training可以提升技能 (c) training係咪培訓？ (d) 對 career path有幫助",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我屋企每逢節日都有gathering。」邊個誤解？\n(a) gathering即聚會 (b) 親戚一齊食飯 (c) gathering係？ (d) 傳統習俗",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去動漫展，買咗好多周邊。」邊個誤解？\n(a) 動漫節即動漫展覽 (b) 周邊即衍生商品 (c) 動漫節係咪動漫？ (d) 每年暑假舉行",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我排政府專科，要等兩年。」邊個正確理解？\n(a) 公立醫院專科排期長 (b) 病情非緊急要等 (c) 私家快但貴 (d) 可以考慮私家再轉介",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我仔去幼稚園面試，要識唱兒歌。」邊個誤解？\n(a) 幼稚園面試考基本能力 (b) 唱兒歌係其中一部分 (c) 面試係咪面試？ (d) 家長都要準備",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我Friend去 annual dinner抽中左Ipad，勁好彩。」邊個誤解？\n(a) annual dinner即公司年宴 (b) 通常有抽獎同表演 (c) 勁意思係非常 (d) 加強員工歸屬感",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去咗書展，買咗好多書，仲攞到作者親筆簽名。」邊個誤解？\n(a) 書展即圖書展覽 (b) 有折扣同新書發布 (c) 所有人免費入場 (d) 每年七月舉行",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我做物理治療，恢復活動能力。」邊個誤解？\n(a) 物理治療即康復訓練 (b) 針對受傷後恢復 (c) 物理治療等如食藥 (d) 要耐心堅持",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我睇金像獎直播，支持港產片。」邊個誤解？\n(a) 金像獎即香港電影獎項 (b) 每年舉辦表揚本地電影 (c) 金像獎同金象米有關 (d) 電視同網上直播",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我去本土小店買手信，支持本地經濟。」邊個誤解？\n(a) 本土小店即本地人經營小商店 (b) 手信即送禮物 (c) 小店一定係連鎖店 (d) 產品有特色",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「清明唔得啊，要去拜山。」邊個誤解？\n(a) 清明即清明節 (b) 拜山係拜祭先人 (c) 說話者唔鐘意清明節 (d) 說話者清明已有安排",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我同仔仔每日傾偈，了解佢學校生活。」邊個誤解？\n(a) 傾偈即聊天 (b) 親子溝通好重要 (c) 傾偈係咪講佛偈？ (d) 建立信任關係",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我定期洗牙，預防牙周病。」邊個正確理解？\n(a) 洗牙即清除牙石 (b) 建議每半年一次 (c) 牙周病可導致甩牙 (d) 牙科保健好重要",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我讀緊asso，希望之後駁到上大學。」邊個誤解？\n(a) asso即副學士課程 (b) 成績好可升讀大學二年級 (c) asso係咪中學？ (d) 另一升學途徑",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「最近做左貓奴，為左主子使左幾千蚊。」邊個正確理解？\n(a) 貓奴即寵物主人 (b) 主子係寵物 (c) 使錢係花錢 (d) 蚊係元",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「我去街市買餸，阿姐搭條葱俾我。」邊個誤解？\n(a) 搭葱即買菜附送葱 (b) 阿姐係咪要送我去沖涼？ (c) 街市人情味濃 (d) 識講價有著數",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「重陽節去拜山，好多人。」邊個誤解？\n(a) 拜山即拜祭先人 (b) 重陽節係公眾假期 (c) 拜山係咪拜山神？ (d) 通常去墳場",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「我聽緊商台，森美好搞笑。」邊個誤解？\n(a) 商台全名商業電台，係香港電台之一 (b) 森美係著名商台DJ (c) 電台係咪電視台？ (d) 可以網上收聽",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「呢排多project，晚晚捱通頂都做唔曬。」邊個正確理解？\n(a) 捱通頂即係通宵 (b) 通宵唔健康 (c) 可以同同學分工 (d) 做唔曬因爲好曬",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「呢間雞蛋仔幾好食，外脆內軟。」邊個誤解？\n(a) 雞蛋仔即雞蛋形小食 (b) 即叫即整最好食 (c) 雞蛋仔係咪小雞蛋？ (d) 香港特色小食",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「你間房亂到九彩，趁大掃除執下啦唔該。」邊個誤解？\n(a) 房間好凌亂 (b) 説話者想多謝對方 (c) 房間有七個顔色 (d) 臨近農曆新年",
+    "reference_correct_answer": "b,c"
+  },
+  {
+    "question_and_answer": "「套戲睇到我火都黎埋，個男配角真係衰到冇人有。」邊個正確理解？\n(a) 一部電影或電視劇 (b) 角色好壞 (c) 説話者很不喜歡男配角 (d) 沒有人比男配角更壞",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「食飽就瞓，快活過神仙，但其實係懶到出汁。」邊個正確理解？\n(a) 好juicy (b) 非常懶惰 (c) 食飽就瞓嘅生活比神仙仲寫意 (d) 瞓係瞓覺",
+    "reference_correct_answer": "b,c,d"
+  },
+  {
+    "question_and_answer": "「電話無曬電，乜都無得做，悶到嘔電。」邊個正確理解？\n(a) 電話嘔電 (b) 説話者很無聊 (c) 説話者是電話重度使用者 (d) 嘔電係誇張講法",
+    "reference_correct_answer": "b,c,d"
+  },
+  {
+    "question_and_answer": "「第一次睇落雪，好鬼凍啊，成個人包到實一實先無變成雪條咋。」邊個正確理解？\n(a) 雪條油炸 (b) 説話者很冷 (c) 鬼凍人唔凍 (d) 説話者穿了很多衣服",
+    "reference_correct_answer": "b,d"
+  },
+  {
+    "question_and_answer": "「仆街啦今次，兩個interview撞到應一應，點算？」邊個正確理解？\n(a) 仆街係粗口 (b) 説話者唔係想鬧人 (c) 説話者想表達糟糕的意思 (d) 兩個面試時間重叠",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「教主真心型到核爆。」邊個誤解？\n(a)教主係香港宗教教主 (b) 教主係香港男團 MIRROR 成員盧瀚霆（Anson Lo）(c) 心型係教主同大家比心 (d) 型到核爆意思係非常非常酷",
+    "reference_correct_answer": "a,c"
+  },
+  {
+    "question_and_answer": "「又過大海啊？因住輸到甩褲。」邊個誤解？\n(a) 過大海係過南中國海去東南亞 (b) 過大海指香港去澳門 (c) 通常去澳門賭錢 (d) 賭錢容易輸錢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「最近翻煲家有喜事，依然笑到甩肺。」邊個正確理解？\n(a) 家有喜事係港產片 (b) 家有喜事係喜劇 (c) 説話者肺有問題 (d) 甩肺係誇張語氣",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「打工仔做到成隻積咁為咩先？」邊個正確理解？\n(a) 積係人名 (b) 積係Jack (c) 打工仔是工薪階層 (d) 打工仔唔包括老闆",
+    "reference_correct_answer": "c,d"
+  },
+  {
+    "question_and_answer": "「九龍城寨入面個個拳拳到肉，打到飛起 。」邊個正確理解？\n(a) 九龍城寨係地名，而家仲係度 (b) 九龍城寨指電影《九龍城寨之圍城》 (c) 拳拳到肉即係打死人 (d) 打到飛起即係吊威也",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「黎緊我放大假，一早book左坐郵輪嘆世界，正到痹。」邊個誤解？\n(a) 黎緊即係即將 (b) 有放大假就有放小假 (c) book係預訂 (d) 同麻痹無關",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「妖，頭先先話放工食放題，去到又嫌貴，結果食番老麥，真係比佢吹到啤一聲。」邊個誤解？\n(a) 吹到啤一聲係吹奏樂器發出的聲音 (b) 頭先係剛才 (c) 老麥係麥當勞 (d) 放題類似自助餐，任飲任食",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「平到你唔信。」邊個誤解？\n(a) 價格很貴 (b) 價格很高 (c) 價格很便宜 (d) 價格不可信",
+    "reference_correct_answer": "a,b,d"
+  },
+  {
+    "question_and_answer": "「清醒d啦，而家擺到明佢穿你櫃桶底，仲懵到上心口。」邊個誤解？\n(a) 櫃桶係抽屜 (b) 櫃桶爛左 (c) 佢偷錢 (d) 可以用傻代替懵",
+    "reference_correct_answer": "b,d"
+  },
+  {
+    "question_and_answer": "「佢d英文咁渣架原來，仲以爲好醒咁，實情柒到喊。」邊個誤解？\n(a) 渣係渣男 (b) 醒係醒目 (c) 柒係粗口 (d) 柒意思係出醜",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「未出糧真係窮到燶，借住少少先呢？」邊個正確理解？\n(a) 出糧係發工資 (b) 窮有燶味 (c) 説話者想借錢 (d) 説話者很有錢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「大檸樂喇，我無留意dress code著錯左衫，實俾人笑到面黃。」邊個正確理解？\n(a) 説話者想飲檸樂 (b) 説話者要去一個有指定衣著嘅場合 (c) 説話者臉色是黃色 (d) 大檸樂係諧音",
+    "reference_correct_answer": "b,d"
+  },
+  {
+    "question_and_answer": "「蠢到加零一。」邊個正確理解？\n(a) 意思係好聰明 (b) 係讚人嘅説話 (c) 非常蠢 (d) 蠢過蠢",
+    "reference_correct_answer": "c,d"
+  },
+  {
+    "question_and_answer": "「睇黎你好滿意個女仔wor，讚到直頭天上有地下無。」邊個正確理解？\n(a) 睇黎係看起來 (b) wor是語氣詞 (c) 直頭係無意思 (d)係讚人嘅説話",
+    "reference_correct_answer": "a,b,d"
+  },
+  {
+    "question_and_answer": "「今年港姐冠軍真係靚到抌一聲。」邊個正確理解？\n(a) 即係不漂亮嘅意思 (b) 帶貶義 (c) 讚人靚 (d)説話者不喜歡港姐",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「最怕去西貢食海鮮，無標價錢，容乜易俾人鋸到一頸血。」邊個正確理解？\n(a) 容乜易即係不容易 (b) 西貢發生命案 (c) 説話者怕受傷 (d) 鋸到一頸血係宰客嘅意思",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「你因住有報應啊，追到天腳底我都要捉到你！」邊個正確理解？\n(a) 講緊追女仔 (b) 因住係小心、注意 (c) 天有腳亦有手 (d) 天腳底指天涯海角",
+    "reference_correct_answer": "b,d"
+  },
+  {
+    "question_and_answer": "「我Ex又係IG出po放閃，真係無眼睇。」邊個正確理解？\n(a) Ex係前任 (b) IG係Instagram (c) po係post (d) 放閃係秀恩愛",
+    "reference_correct_answer": "a,b,c,d"
+  },
+  {
+    "question_and_answer": "「個有錢佬抱到個男孫，仲唔錫到燶咩!」邊個正確理解？\n(a) 呢個係問句 (b) 有有錢佬都有有錢婆 (c) 錫係kiss (d)親嘴親到有燶味",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「我有次去戲院睇鬼片，嚇到鼻哥窿都冇肉，下次咪搞。」邊個誤解？\n(a) 片係切嘅意思 (b) 説話者去看了恐怖電影 (c) 鼻哥窿係一個地名 (d) 下次再去",
+    "reference_correct_answer": "a,c,d"
+  },
+  {
+    "question_and_answer": "「唉，又俾老細鬧到狗血淋頭。」邊個誤解？\n(a) 説話者淋狗血 (b) 説話者以前試過被鬧 (c) 狗血淋頭係鬼片 (d) 形容被鬧得好甘",
+    "reference_correct_answer": "a,c"
+  },
+  {
+    "question_and_answer": "「港隊搞咩啊，主場都可以輸，成班踢到成pat屎咁。」邊個誤解？\n(a) 説話者係球迷 (b) 港隊好搞笑 (c) 搞咩有不滿嘅意思 (d) 踢波踢到屎",
+    "reference_correct_answer": "b,d"
+  },
+  {
+    "question_and_answer": "「Tesla大插水，今次蝕到入肉。」邊個誤解？\n(a) 插水係去跳水 (b) Tesla新推出插水裝備 (c) 説話者投資失利 (d) 蝕即係虧",
+    "reference_correct_answer": "a,b"
+  },
+  {
+    "question_and_answer": "「有無睇琴晚東張？影個阿婆間屋亂過亂葬崗，d老鼠曱甴多到。」邊個誤解？\n(a) 阿婆去左亂葬崗 (b) 亂葬崗有老鼠 (c) 阿婆間屋有老鼠 (d) 東張係TVB節目東張西望",
+    "reference_correct_answer": "a,b"
+  },
+  {
+    "question_and_answer": "「新嘅intern做野好求其，成日得過且過當交差。」邊個誤解？\n(a) 求其係求其他人做事 (b) 得過且過同求其同義 (c) 交差係交比差人 (d) 呢個實習生做事麻麻",
+    "reference_correct_answer": "a,c"
+  },
+  {
+    "question_and_answer": "「琴日去見工，坐低唔夠一分鐘就走咗，仲快過打針。」邊個正確理解？\n(a) 打針比見工更快 (b) 打針比見工更慢 (c) 見工係去打針 (d) 呢次見工唔多正常",
+    "reference_correct_answer": "b,d"
+  },
+  {
+    "question_and_answer": "「連踩16個鐘真係苦過dee dee。」邊個正確理解？\n(a) dee dee係咪華dee (b) 踩住個時鐘 (c) 玩鋤大Dee (d) 好慘嘅意思",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「邊有得同朋友做生意架，幾多人反轉豬肚就係屎。」邊個正確理解？\n(a) 邊度可以同朋友做生意 (b) 食左舊有屎嘅豬肚 (c) 比喻朋友為了利益反目 (d)唔好食豬肚因爲有屎",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「又到年尾樂壇頒獎禮分豬肉嘅時間啦。」邊個正確理解？\n(a) 頒獎禮人人有獎 (b) 年尾有豬肉食 (c) 有時間分豬肉 (d) 樂壇頒獎禮係年底",
+    "reference_correct_answer": "a,d"
+  },
+  {
+    "question_and_answer": "「仲係度死雞撐飯蓋。」邊個正確理解？\n(a) 雞偷食飯 (b) 用死雞頂住個蓋 (c) 撐係加油咁解 (d) 比喻硬撐著",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「咁多人排隊都癡癡地，正一新屎坑三日香。」邊個正確理解？\n(a) 説話者排隊去厠所 (b) 説話者痴住排隊嘅人 (c) 屎坑比喻新店 (d) 諷刺人湊熱鬧",
+    "reference_correct_answer": "c,d"
+  },
+  {
+    "question_and_answer": "「你識得誠哥？佢識你老鼠，唔好噏得就噏啦。」邊個正確理解？\n(a) 說話者叫老鼠 (b) 誠哥識得老鼠 (c) 指對方吹牛 (d) 誠哥係香港富商李嘉誠嘅別名",
+    "reference_correct_answer": "c,d"
+  },
+  {
+    "question_and_answer": "「你聽佢9up啦！」邊個誤解？\n(a) 9up好似7up (b) 説話者叫對方聽人説話 (c) 説話者叫對方不用理會胡言亂語 (d) 9代表粗口",
+    "reference_correct_answer": "a,b"
+  },
+  {
+    "question_and_answer": "「最緊睇墨魚游戲，sldpk。」邊個誤解？\n(a) sldpk係少年的拼勁 (b) 墨魚游戲好血腥 (c) 好笑到跌倒嘅意思 (d)有粗口",
+    "reference_correct_answer": "a,b"
+  },
+  {
+    "question_and_answer": "「呢班人都cls，係港鐵度開餐。」邊個誤解？\n(a) cls係Comment、Like、Share (b) cls指一班人行爲不正常 (c) 開餐係食野 (d）開餐同開大一個意思",
+    "reference_correct_answer": "a,d"
+  },
+  {
+    "question_and_answer": "「我尋日去左姜濤灣，真係好震撼呀！」邊個誤解？\n(a) 地圖無姜濤灣呢個地方 (b) 代指姜濤每年生日嘅銅鑼灣 (c) 尋日係昨天 (d) 姜濤英文名Anson",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「呢排好多白卡係條街度發癲。」邊個誤解？\n(a) 呢排好多派卡 (b) 呢排係最近 (c) 白卡代指精神有問題行爲怪異嘅人 (d) 發癲係發瘋",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「你有無玩脆？」邊個誤解？\n(a) 脆應該講食物好脆 (b) 脆係社交媒體Threads (c) 玩玩具 (d)即係你有無Threads account?",
+    "reference_correct_answer": "a,c"
+  },
+  {
+    "question_and_answer": "「癡膠花，點可能？」邊個誤解？\n(a) 香港以前流行做膠花 (b) 而家無人做癡膠花 (c) 有粗口 (d) 有鬧人意思",
+    "reference_correct_answer": "a,b"
+  },
+  {
+    "question_and_answer": "「最憎d廢老成日講：我食鹽多過你食米啦。」邊個誤解？\n(a) 食咁多鹽好咸 (b) 齋食米唔健康 (c) 廢老係廢青嘅延伸 (d) 食鹽多過食米代表經驗比較多",
+    "reference_correct_answer": "a,b"
+  },
+  {
+    "question_and_answer": "「頭先搭巴士唔記得嘟卡，俾司機叫番轉頭，成車人望住我，好kam。」邊個誤解？\n(a) 同老尷一個意思 (b) 同Cam一樣 (c) 形容尷尬嘅場面 (d) 都可以形容奇怪嘅人",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「叉燒飯，要瘦叉。」哪個誤解？\n(a) 瘦叉要瘦肉 (b) 叉燒飯係茶餐廳經典菜式 (c) 茶餐廳服務速度快 (d) 送埋肥叉",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「一份常餐，食沙嗲牛，炒蛋走包。」哪個正確理解？\n(a) 沙嗲牛麵係茶餐廳常見麵食 (b) 沙嗲醬有獨特香味 (c) 走包係唔要包 (d) 常餐下午無得食",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「佢返工成日hea。」哪個誤解？\n(a) 佢成日攤喺度瞓覺？ (b) 佢做嘢好唔上心 (c) 感覺好求其 (d) 一睇就唔多投入",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢排要chur一chur先得。」哪個誤解？\n(a) 要拉緊條繩？ (b) 真係要好努力喇 (c) 要逼自己一把 (d) 唔chur唔得",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「你咁都信？真係on9。」哪個誤解？\n(a) 關唔關數字9事？ (b) 你真係諗嘢唔清楚 (c) 有啲太天真喇 (d) 點會信呢啲嘢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢而家過緊佛系生活。」哪個誤解？\n(a) 佢成日去拜佛？ (b) 佢乜都睇得好開 (c) 對好多嘢唔強求 (d) 心態好隨緣",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「小心啲，佢好鍾意老點人。」哪個誤解？\n(a) 佢年紀好大？ (b) 佢成日講大話 (c) 好容易呃人 (d) 唔多老實",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢俾人鬧完即刻爆seed。」哪個誤解？\n(a) 佢身體入面有嘢爆出嚟？ (b) 佢突然發晒脾氣 (c) 情緒一下子失控 (d) 好明顯好嬲",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「你可唔可以收皮？」哪個誤解？\n(a) 要我收起啲皮？ (b) 可唔可以唔好再講 (c) 你靜一靜先啦 (d) 停一停好唔好",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢講嘢幾貼地。」哪個誤解？\n(a) 佢成日坐喺地下？ (b) 佢好貼近現實 (c) 講嘢好實在 (d) 好多人都有共鳴",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「食完飯佢就走數。」哪個誤解？\n(a) 佢行開去計數？ (b) 佢冇俾錢 (c) 走咗唔埋單 (d) 又走咗數",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「放假喺屋企hea爆。」哪個誤解？\n(a) 屋企爆咗？ (b) 成個人極度放空 (c) 乜都唔想做 (d) 攤足全日",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢個計劃真係唔掂。」哪個誤解？\n(a) 要用手托住？ (b) 聽落唔太可行 (c) 好似有問題 (d) 成功機會唔高",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「用呢個角色打機真係屈機。」哪個誤解？\n(a) 部機畀人屈壞咗？ (b) 強到唔公平 (c) 明顯犯規級 (d) 用咗一定贏",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢間餐廳好伏。」哪個誤解？\n(a) 地下有陷阱？ (b) 去咗會後悔 (c) 質素好差 (d) 好容易中伏",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我買嗰樣嘢中伏咗。」哪個誤解？\n(a) 跌咗落陷阱？ (b) 買錯嘢 (c) 被呃咗 (d) 真係踩雷",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢單嘢我都冇計。」哪個誤解？\n(a) 你冇做數學？ (b) 真係冇辦法 (c) 唔知點處理 (d) 無能為力",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢啲態度真係激死。」哪個誤解？\n(a) 會激到人死？ (b) 真係好令人嬲 (c) 睇到都火滾 (d) 好難忍受",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢個環境我真係頂唔順。」哪個誤解？\n(a) 要用頭頂住？ (b) 真係受不了 (c) 好難再忍 (d) 太辛苦喇",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢上網成日放負。」哪個誤解？\n(a) 放低重物？ (b) 成日發負能量 (c) 好多怨氣 (d) 睇到都覺得攰",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今日真係趕頭趕命。」哪個誤解？\n(a) 一路跑一路搵命？ (b) 時間好趕 (c) 行程密到爆 (d) 冇停過",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢最後屈尾十贏咗。」哪個誤解？\n(a) 用條尾巴？ (b) 臨尾反勝 (c) 最後關頭逆轉 (d) 好戲在後頭",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢啲諗法真係好離地。」哪個誤解？\n(a) 佢飛咗起身？ (b) 完全脫離現實 (c) 一啲都唔貼地 (d) 諗法太空泛",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢個人好串。」哪個誤解？\n(a) 好似串燒？ (b) 態度好囂張 (c) 講嘢好唔客氣 (d) 容易得罪人",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢啲行為真係好癲。」哪個誤解？\n(a) 佢一定有精神病？ (b) 行為好誇張 (c) 做嘢好出位 (d) 正常人唔會咁做",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「睇到呢幕真係冇眼睇。」哪個誤解？\n(a) 你對眼有事？ (b) 好尷尬 (c) 真係睇唔過眼 (d) 好難接受",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢又抽水喇。」哪個誤解？\n(a) 佢去咗抽水機？ (b) 又想攞着數 (c) 借機博曝光 (d) 真係識玩",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我哋食花生算啦。」哪個誤解？\n(a) 而家去買花生？ (b) 唔好插手 (c) 做旁觀者就算 (d) 睇戲就好",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢件事我要企硬。」哪個誤解？\n(a) 企到雙腳僵硬？ (b) 我唔會退讓 (c) 立場好清楚 (d) 一步都唔讓",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「你唔好再扮嘢啦。」哪個誤解？\n(a) 你而家扮緊角色？ (b) 唔好再做作 (c) 唔好再假裝 (d) 真誠啲啦",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢擺明唔想幫。」哪個誤解？\n(a) 佢將嘢擺好？ (b) 好明顯唔想理 (c) 完全冇意欲 (d) 一睇就知",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「算把啦，唔同佢計。」哪個誤解？\n(a) 再計過條數？ (b) 放棄啦算數 (c) 唔再糾纏 (d) 當冇事",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「咁都得？！」哪個誤解？\n(a) 即係合法？ (b) 真係估唔到 (c) 好出奇 (d) 太誇張喇",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「唔係掛？」哪個誤解？\n(a) 要掛嘢？ (b) 真係有啲唔信 (c) 表示驚訝 (d) 有啲懷疑",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「咪係囉。」哪個誤解？\n(a) 即係反對？ (b) 我都同意 (c) 就係咁嘅意思 (d) 無錯喇",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「而家先去？有排等喇。」哪個誤解？\n(a) 排隊會好長？ (b) 要等好耐 (c) 一時未有位 (d) 預咗啦",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢啲事真係好鬼煩。」哪個誤解？\n(a) 同鬼有關？ (b) 好令人煩躁 (c) 聽到都攰 (d) 真係麻煩",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今日真係黑仔。」哪個誤解？\n(a) 你着咗黑衫？ (b) 好倒楣 (c) 運氣唔好 (d) 諸事不順",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢最近好行運。」哪個誤解？\n(a) 成日出街行？ (b) 運氣好好 (c) 樣樣都順 (d) 真係好彩",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「不如博一鋪啦。」哪個誤解？\n(a) 去賭場？ (b) 冒一次險 (c) 試一試啦 (d) 放手一搏",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今次真係執死雞。」哪個誤解？\n(a) 執到隻雞？ (b) 白白賺到 (c) 冇乜出力 (d) 好彩啫",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢單嘢有着數。」哪個誤解？\n(a) 要計數？ (b) 有好處 (c) 做得過 (d) 有利益",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「做呢樣嘢冇着數。」哪個誤解？\n(a) 冇任何數字？ (b) 唔值得做 (c) 冇好處 (d) 白費心機",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢件貨抵到爛。」哪個誤解？\n(a) 已經爛咗？ (b) 平到誇張 (c) 超級抵買 (d) 真係好平",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「件事終於爆煲。」哪個誤解？\n(a) 有個煲爆咗？ (b) 問題一次過爆 (c) 累積到頂唔順 (d) 終於出事",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今日個場爆棚。」哪個誤解？\n(a) 個棚塌咗？ (b) 好多人 (c) 滿晒位 (d) 人山人海",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢個plan好襟計。」哪個誤解？\n(a) 要成日計？ (b) 好划算 (c) 好值得 (d) 性價比高",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢行其實好揾。」哪個誤解？\n(a) 好易搵路？ (b) 好容易賺錢 (c) 收入唔錯 (d) 好多機會",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今次我食咗死貓。」哪個誤解？\n(a) 你真係食咗貓？ (b) 被屈責任 (c) 冇做錯都要孭 (d) 真係無辜",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「算數啦，唔追究。」哪個誤解？\n(a) 再計過？ (b) 放棄算喇 (c) 當件事完咗 (d) 唔再理",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「講真，我唔多同意。」哪個誤解？\n(a) 你講笑？ (b) 老實講 (c) 講心底話 (d) 認真回應",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「即係點呀？」哪個誤解？\n(a) 想完結話題？ (b) 想你解釋清楚 (c) 聽唔明 (d) 想知多啲",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢呢張相比人起底，連住邊都知。」邊個係對「起底」嘅誤解？\n(a) 你以為「起底」係話要喺地下起個地基？ (b) 你知呢個係指人肉搜索 (c) 你話網絡私隱好重要 (d) 你建議佢快啲轉 private account",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今次份 project 真係甩轆，要重新做過。」邊個係對「甩轆」嘅誤解？\n(a) 你以為架車個轆真係飛咗出嚟？ (b) 你明白呢個係指中途出錯搞砸咗 (c) 你建議下次要 check 清楚啲流程 (d) 你覺得好可惜，嘥晒啲時間",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我杯凍奶茶要走奶，唔該。」邊個係對「走奶」嘅誤解？\n(a) 你以為「走奶」係話啲奶自己識行路走咗？ (b) 你明白呢個係指飲品唔加奶 (c) 你話呢間茶餐廳啲奶茶幾好飲 (d) 你提醒要少甜健康啲",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢做嘢好揦西，交親啲貨都唔掂。」邊個係對「揦西」嘅誤解？\n(a) 你以為佢係話要去西邊揦嘢？ (b) 你知呢個係指做嘢粗魯草率 (c) 你建議老細要搵人 check 下佢啲嘢 (d) 你話咁樣會影響公司形象",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢喺 group 裡面潛水好耐，完全唔見人。」邊個係對「潛水」嘅誤解？\n(a) 你以為佢去咗大堡礁玩深海潛水？ (b) 你知呢個係指長時間唔回覆 (c) 你話可能佢呢排好忙 (d) 你打算直接打電話搵佢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢竟然食碗面反碗底，出賣公司。」邊個係對「食碗面反碗底」嘅誤解？\n(a) 你以為佢食完飯將個碗倒轉嚟放？ (b) 你明白呢個係形容忘恩負義 (c) 你覺得呢種人唔值得深交 (d) 你話做人最緊要有義氣",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「我今日唔小心爆響口，講咗佢個秘密。」邊個係對「爆響口」嘅誤解？\n(a) 你以為佢個口突然發出好大響聲？ (b) 你知呢個係指唔小心洩漏秘密 (c) 你覺得好過意唔去，想同佢道歉 (d) 你提醒自己下次要守口如瓶",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今次選舉結果真係爆冷，冇人估到。」邊個係對「爆冷」嘅誤解？\n(a) 你以為「爆冷」係指冷氣機爆炸？ (b) 你明白呢個係指出乎意料嘅結果 (c) 你話呢個候選人其實好有實力 (d) 你覺得今次賠率好誇張",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢呢排做嘢好搏命，連假都唔放。」邊個係對「搏命」嘅誤解？\n(a) 你以為佢要攞條命出嚟拍賣？ (b) 你明白呢個係形容非常努力 (c) 你叫佢要注意身體，唔好太攰 (d) 你話公司應該升佢職",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢成日喺度吹水，都唔知邊句真。」邊個係對「吹水」嘅誤解？\n(a) 你以為佢對住杯水吹氣？ (b) 你知呢個係指閑聊或者吹牛 (c) 你覺得聽下就算，唔使太認真 (d) 你話佢份人幾風趣",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人好串，問多兩句都嫌煩。」邊個係對「串」嘅誤解？\n(a) 你以為佢係話要去食細龜炭燒肉串？ (b) 你知呢個係指說話唔客氣、囂張 (c) 你建議唔好同佢計較咁多 (d) 你話佢可能心情唔好",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢打機打到爆機，真係犀利。」邊個係對「爆機」嘅誤解？\n(a) 你以為部遊戲機突然爆炸？ (b) 你明白呢個係指打通所有關卡 (c) 你問佢攞攻略參考下 (d) 你覺得佢真係好有恆心",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢今日約會甩底，搞到我要一個人食。」邊個係對「甩底」嘅誤解？\n(a) 你以為佢個鞋底突然甩咗出嚟？ (b) 你知呢個係指臨場缺席 (c) 你覺得好失望，下次唔想約佢 (d) 你話佢可能有急事去唔到",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人好鍾意潤人，講嘢尖酸刻薄。」邊個係對「潤」嘅誤解？\n(a) 你以為佢係話要搽潤膚膏？ (b) 你明白呢個係指冷言冷語挖苦 (c) 你覺得聽咗會好唔舒服 (d) 你建議佢講嘢要留啲口德",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今晚去到嗰度真係爆棚，連位都冇。」邊個係對「爆棚」嘅誤解？\n(a) 你以為個棚架突然爆裂？ (b) 你明白呢個係形容場地滿座 (c) 你建議下次要提早預約 (d) 你話估唔到呢間店咁受歡迎",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢炒期指炒到爆倉，輸咗好多錢。」邊個係對「爆倉」嘅誤解？\n(a) 你以為個貨倉突然爆炸？ (b) 你明白呢個係指投資虧損過大被斬倉 (c) 你話投資真係要量力而為 (d) 你安慰佢錢財乃身外物",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人好鍾意攞威，少少事都攞嚟講。」邊個係對「攞威」嘅誤解？\n(a) 你以為佢係要去攞威士忌飲？ (b) 你知呢個係指顯威風、出風頭 (c) 你覺得佢咁做其實好自卑 (d) 你話由得佢，唔使理佢",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢成日喺度扮嘢，其實乜都唔識。」邊個係對「扮嘢」嘅誤解？\n(a) 你以為佢係搬緊野（扮/搬）？ (b) 你知呢個係指裝模作樣 (c) 你話呢種人喺職場好常見 (d) 你建議老細要睇清佢實力",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今次件事全靠佢執生先搞得掂。」邊個係對「執生」嘅誤解？\n(a) 你以為佢係執返條命（執返生）？ (b) 你明白呢個係指隨機應變 (c) 你話佢份人反應真係快 (d) 你覺得下次要做好啲準備",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢唔小心踢爆咗公司個計劃。」邊個係對「踢爆」嘅誤解？\n(a) 你以為佢係踢波踢到個波爆咗？ (b) 你知呢個係指揭穿或者洩漏秘密 (c) 你話咁樣會影響到公司部署 (d) 你提醒佢以後講嘢要小心",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢呢排突然爆Seed，表現好過平時好多。」邊個係對「爆Seed」嘅誤解？\n(a) 你以為佢係種緊種子（Seed）？ (b) 你明白呢個係指爆發潛力 (c) 你問佢攞秘訣想學下嘢 (d) 你覺得佢係咪想爭取升職",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢件事真係好大鑊，唔知點收科。」邊個係對「大鑊」嘅誤解？\n(a) 你以為佢買咗個好大嘅煮食鑊？ (b) 你明白呢個係指出咗大事 (c) 你建議快啲搵人幫手解決 (d) 你話今晚肯定要開 OT",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢今日竟然比人燉冬菇，真係慘。」邊個係對「燉冬菇」嘅誤解？\n(a) 你以為佢係煮緊中式老火湯？ (b) 你知呢個係形容被降職 (c) 你覺得佢可能做錯咗好大件事 (d) 你安慰佢唔好太灰心",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「見到個結果咁，我真係好淆底。」邊個係對「淆底」嘅誤解？\n(a) 你以為係講緊個火鍋個底好淆？ (b) 你明白呢個係形容害怕或退縮 (c) 你話要鼓起勇氣去面對 (d) 你建議佢搵朋友陪下",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢竟然想搵老襯，好彩我醒目。」邊個係對「搵老襯」嘅誤解？\n(a) 你以為佢係要去搵佢嘅老親戚？ (b) 你知呢個係指把人當傻瓜欺騙 (c) 你話而家啲騙案真係好多 (d) 你慶幸自己冇上到當",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢玩到屈機，根本冇得同佢打。」邊個係對「屈機」嘅誤解？\n(a) 你以為部遊戲機被人整彎咗（屈）？ (b) 你明白呢個係形容實力強到唔公平 (c) 你話佢一定練咗好耐先咁勁 (d) 你打算換個對手玩",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人最鍾意抽水，乜都要發表意見。」邊個係對「抽水」嘅誤解？\n(a) 你以為佢係要去泳池抽走啲水？ (b) 你知呢個係指藉機發表議論佔便宜 (c) 你話聽完就算，唔使理佢 (d) 你覺得佢咁樣好容易得罪人",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢單嘢好離譜，完全唔合理。」邊個係對「離譜」嘅誤解？\n(a) 你以為佢份五線譜跌咗喺度？ (b) 你明白呢個係指太過分或唔合常理 (c) 你建議要向有關部門投訴 (d) 你話真係聞所未聞",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「唔好再搞屎棍啦，件事已經好煩。」邊個係對「搞屎棍」嘅誤解？\n(a) 你以為佢拎住一條棍喺度攪？ (b) 你知呢個係形容製造麻煩嘅人 (c) 你叫佢唔好再插手件事 (d) 你話大家應該團結啲解決問題",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢呢排好唔掂，生活好拮据。」邊個係對「唔掂」嘅誤解？\n(a) 你以為佢叫你唔好用手去掂佢？ (b) 你明白呢個係指情況糟糕或不行 (c) 你考慮緊要唔要借錢比佢 (d) 你希望佢快啲度過難關",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「見到老細嚟，大家即刻撇。」邊個係對「撇」嘅誤解？\n(a) 你以為佢寫緊書法個「撇」？ (b) 你知呢個係指離開或溜走 (c) 你話大家反應真係快 (d) 你覺得咁樣好鬼祟",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢做嘢好落力，深得老細歡心。」邊個係對「落力」嘅誤解？\n(a) 你以為佢跌咗啲力氣落地下？ (b) 你知呢個係形容非常賣力 (c) 你覺得佢升職機會好大 (d) 你建議大家向佢學習",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢成日跌眼鏡，估錯晒啲結果。」邊個係對「跌眼鏡」嘅誤解？\n(a) 你以為佢副眼鏡跌咗落地下碎咗？ (b) 你明白呢個係指結果出乎預料 (c) 你話下次唔好再信佢啲預測 (d) 你覺得呢個賽果真係好冷門",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「杯奶茶要走甜，我要減肥。」邊個係對「走甜」嘅誤解？\n(a) 你以為「甜」呢個人走咗去？ (b) 你知呢個係指唔加糖 (c) 你覺得咁樣飲會健康啲 (d) 你話呢間茶餐啲茶味夠濃",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢做嘢真係好攞命，要求極高。」邊個係對「攞命」嘅誤解？\n(a) 你以為佢真係要拎走人哋條命？ (b) 你明白呢個係形容艱難或辛苦到極點 (c) 你話跟佢做嘢真係好大壓力 (d) 你建議要搵方法減壓",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「大家準備好，即刻起錨！」邊個係對「起錨」嘅誤解？\n(a) 你以為佢係講緊一隻大船個錨？ (b) 你知呢個係指準備出發 (c) 你話今次行程應該好順利 (d) 你叫大家 check 清楚嘢齊未",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢成日走雞，錯失好多機會。」邊個係對「走雞」嘅誤解？\n(a) 你以為有一隻雞由佢屋企走咗？ (b) 你知呢個係指錯失良機 (c) 你建議佢下次要果斷啲 (d) 你覺得好可惜，浪費咗資源",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人好睇得開，唔會計較咁多。」邊個係對「睇開」嘅誤解？\n(a) 你以為佢叫你將張紙睇開啲？ (b) 你知呢個係指心胸廣闊、唔計較 (c) 你覺得佢咁樣生活好輕鬆 (d) 你話要向佢學習呢種心態",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人係開心果，去到邊都咁熱鬧。」邊個係對「開心果」嘅誤解？\n(a) 你以為佢係講緊嗰種乾果食物？ (b) 你知呢個係指逗人開心嘅人 (c) 你話有佢喺度氣氛真係好好 (d) 你覺得佢份人好正能量",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢今日好打尖，排隊都要插位。」邊個係對「打尖」嘅誤解？\n(a) 你以為佢拎住個尖嘅嘢去打人？ (b) 你知呢個係指插隊唔守規矩 (c) 你建議要向職員投訴佢 (d) 你話咁樣做人好冇公德心",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢度好靚，快啲打卡。」邊個係對「打卡」嘅誤解？\n(a) 你以為佢要用手打爆張卡？ (b) 你知呢個係指影相上傳社交媒體 (c) 你問佢打算 post 去 FB 定 IG (d) 你話呢張相影得好有 feel",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢今日成日開工，冇停過手。」邊個係對「開工」嘅誤解？\n(a) 你以為佢係要去開個工具箱？ (b) 你知呢個係指開始工作 (c) 你叫佢休息下，唔好太勞累 (d) 你話佢份人真係好勤力",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢成日收風，知道好多內幕。」邊個係對「收風」嘅誤解？\n(a) 你以為佢用個袋去裝住啲風？ (b) 你知呢個係指收集情報或消息 (c) 你問佢今次收到乜嘢特別嘢 (d) 你叫佢小心啲，唔好亂傳",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人最愛食回頭草，又同前任復合。」邊個係對「食回頭草」嘅誤解？\n(a) 你以為佢係草地上食緊啲草？ (b) 你明白呢個係指與前任復合或重操舊業 (c) 你覺得感情嘅嘢佢自己知就得 (d) 你話希望佢今次會幸福",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢間鋪頭食水深，賣得貴過人。」邊個係對「食水深」嘅誤解？\n(a) 你以為佢叫你去深水區飲水？ (b) 你明白呢個係指賺取極高利潤 (c) 你建議去另一間買會平啲 (d) 你話咁樣做生意唔會長久",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢呢排搞搞震，整壞晒啲嘢。」邊個係對「搞搞震」嘅誤解？\n(a) 你以為佢喺度整緊地震？ (b) 你知呢個係指搗亂或無事生非 (c) 你叫佢唔好再添亂 (d) 你覺得佢份人好唔成熟",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「大家快啲起筷，餸都凍晒。」邊個係對「起筷」嘅誤解？\n(a) 你以為對筷子會自己跳起？ (b) 你知呢個係指開始食飯 (c) 你話今日個老火湯好飲 (d) 你提醒大家要用公筷",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢竟然想搏出位，做埋啲奇怪嘢。」邊個係對「搏出位」嘅誤解？\n(a) 你以為佢要喺個位度跳出嚟？ (b) 你知呢個係指爭取曝光或出名 (c) 你覺得佢咁做其實好反感 (d) 你話網紅文化真係好誇張",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人好甩色，做嘢冇帶腦。」邊個係對「甩色」嘅誤解？\n(a) 你以為佢件衫洗到褪晒色？ (b) 你知呢個係形容出醜或唔掂 (c) 你建議佢要做事認真啲 (d) 你話咁樣好影響大家印象",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢做嘢好撇脫，一啲都唔拖泥帶水。」邊個係對「撇脫」嘅誤解？\n(a) 你以為佢係話要撇開個脫鞋？ (b) 你明白呢個係形容俐落、果斷 (c) 你話同佢合作真係好舒服 (d) 你覺得咁樣效率高好多",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人鍾意爆料，大家要小心佢。」邊個係對「爆料」嘅誤解？\n(a) 你以為佢將啲調味料爆開咗？ (b) 你知呢個係指揭露秘密資訊 (c) 你建議唔好喺佢面前講太多 (d) 你覺得呢種人好冇口德",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「今晚餐廳爆棚，我地要去第二間。」邊個係對「爆棚」嘅誤解？\n(a) 你以為個天花板棚架爆咗？ (b) 你知呢個係形容場地滿座 (c) 你話估唔到今日咁多人客 (d) 你建議下次要早啲訂房",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢今日爆石爆好耐，仲未出嚟。」邊個係對「爆石」嘅誤解？\n(a) 你以為佢喺度炸開啲石頭？ (b) 你知呢個係指上大號（去廁所） (c) 你叫佢快啲，出面仲有人等 (d) 你問佢係咪腸胃唔舒服",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢呢排做嘢好爆肝，日日加班。」邊個係對「爆肝」嘅誤解？\n(a) 你以為佢個肝臟真係爆開咗？ (b) 你知呢個係形容熬夜非常辛苦 (c) 你提醒佢身體緊要過工作 (d) 你建議佢要食返啲補品",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢個數據真係爆曬表，好誇張。」邊個係對「爆表」嘅誤解？\n(a) 你以為個手錶突然爆炸？ (b) 你知呢個係形容數值極高超乎預期 (c) 你話今次表現真係好過想像 (d) 你覺得呢個記錄好難打破",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢仆親跌到爆缸，流好多血。」邊個係對「爆缸」嘅誤解？\n(a) 你以為個大魚缸突然炸開咗？ (b) 你知呢個係形容受傷流血 (c) 你快啲搵急救箱比佢 (d) 你問佢要唔要睇醫生",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢竟然去爆格，比警察捉咗。」邊個係對「爆格」嘅誤解？\n(a) 你以為佢將個格子整爆咗？ (b) 你知呢個係指入屋行竊 (c) 你話做人真係唔好犯法 (d) 你覺得咁樣會害咗自己一生",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢份人好爆陰毒，暗中害人。」邊個係對「爆陰毒」嘅誤解？\n(a) 你以為佢喺度噴射陰質毒氣？ (b) 你知呢個係指暗中使壞害人 (c) 你建議要遠離呢種人 (d) 你話做人要光明正大",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「佢呢排成日爆喊，心情好差。」邊個係對「爆喊」嘅誤解？\n(a) 你以為佢喊到個口爆咗？ (b) 你知呢個係指放聲大哭 (c) 你去安慰下佢，問佢發生乜事 (d) 你建議佢去聽下歌放鬆下",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「呢件事真係好攞命，搞到我冇晒精神。」邊個係對「攞命」嘅誤解？\n(a) 你以為佢真係要拎走你條命？ (b) 你明白呢個係形容非常辛苦或痛苦 (c) 你話要休息下先得，唔好硬撐 (d) 你建議下次搵人幫手一齊做",
+    "reference_correct_answer": "a"
+  },
+  {
+    "question_and_answer": "「去元朗食老婆餅，老字號出品外皮鬆化。」哪個誤解？\n(a) 老婆餅係香港傳統點心，內餡有冬瓜蓉 (b) 元朗好多老字號餅店 (c) 老婆餅一定要夫妻一齊食先好味？(d) 老婆餅熱食更香脆",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「茶餐廳叫番杯鹹檸七，解暑一流。」哪個正確理解？\n(a) 鹹檸七由鹹檸同七喜調製而成 (b) 係茶餐廳經典飲品 (c) 可以要求走冰 (d) 鹹檸七含有酒精？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「搭綠色小巴去馬鞍山，班次好密。」哪個誤解？\n(a) 香港小巴分紅色同綠色，綠色係專線 (b) 小巴可以站人，載客量比巴士少 (c) 綠色小巴只走市區路線？(d) 部分小巴支持八達通同電子支付",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「坐渡輪往返中環同長洲，欣賞維港景色。」哪個正確理解？\n(a) 長洲係香港離島，以海鮮同風車聞名 (b) 渡輪有慢船同快船選擇 (c) 來回船票價格實惠 (d) 渡輪只在白天營運？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「農曆七月十四「盂蘭節」，街坊搞盂蘭勝會。」哪個誤解？\n(a) 盂蘭節有祭祀祖先、超渡亡魂嘅習俗 (b) 盂蘭勝會有戲曲表演同齋宴 (c) 盂蘭節只係道教節日？(d) 香港舊區盂蘭勝會氣氛濃郁",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「冬至一家人圍住食湯圓，寓意團圓。」哪個正確理解？\n(a) 香港人冬至有食湯圓嘅習俗 (b) 湯圓有鹹甜兩種口味 (c) 冬至被視為「小年」，重視程度高 (d) 湯圓只可以水煮？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「阿女入左女校，校風嚴謹注重禮儀。」哪個誤解？\n(a) 香港有好多歷史悠久嘅女子中學 (b) 女校課程同男女校大致相同 (c) 女校學生唔可以同男校學生交流？(d) 部分女校係名校，入學競爭激烈",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「仔仔讀IS，用英文同普通話授課。」哪個正確理解？\n(a) 國際學校學制與本地學校不同 (b) 學生來自不同國家，多元化 (c) 學費比本地學校高好多 (d) 國際學校唔需要參加任何考試？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「用「轉數快」過數畀朋友，即時到賬。」哪個誤解？\n(a) 轉數快係香港即時支付系統 (b) 可以透過銀行App或電子錢包使用 (c) 轉數快每日轉賬冇限額？(d) 轉數快支持跨銀行即時轉賬",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「用醫療券睇牙醫，慳咗好多錢。」哪個正確理解？\n(a) 長者醫療券係政府資助長者就醫嘅福利 (b) 每年有固定額度，可累積使用 (c) 适用於私家醫生、牙科、中醫等 (d) 所有長者都可以無限領取？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「周末帶小朋友去「科學園」參觀，增長知識。」哪個誤解？\n(a) 香港科學園係科研同創新基地 (b) 有好多互動展覽適合小朋友 (c) 入園需要購買門票？(d) 科學園經常舉辦科普活動",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「公司用「Zoom」開遠程會議，同事分別喺不同地區。」哪個誤解？\n(a) Zoom係常用嘅視頻會議軟件 (b) 可以屏幕共享同傳送文件 (c) 開Zoom會議一定要露鏡？(d) 香港好多公司疫情後仍保留遠程會議模式",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「做Full time比Part-time人工高，但責任更重。」哪個正確理解？\n(a) 全職通常有固定工作時間同福利 (b) 兼職工作時間靈活，按時計薪 (c) 全職享有強積金、年假等福利 (d) 兼職一定冇強積金？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「聽「香港電台」節目，了解社會時事同文化。」哪個誤解？\n(a) 香港電台係公營廣播機構 (b) 節目類型包括新聞、文化、教育等 (c) 香港電台只播粵語節目？(d) 部分節目有podcast版本可供重聽",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「睇「ViuTV」劇集《大叔的愛》，笑到肚痛。」哪個正確理解？\n(a) ViuTV係香港本地電視台，與TVB競爭 (b) 劇集題材創新，吸引年輕觀眾 (c) 可以透過Viu App免費觀看 (d) ViuTV劇集只喺香港播出？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「去「廟街」淘二手貨，有好多特色小玩意。」哪個誤解？\n(a) 廟街係香港著名夜市，傍晚開檔 (b) 可以買到服裝、飾品、古董等 (c) 討價還價係廟街購物特色 (d) 廟街只賣全新貨品？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去「海港城」買名牌手袋，款式齊全。」哪個正確理解？\n(a) 海港城係香港最大型購物商場之一 (b) 位於尖沙咀，臨近維港 (c) 匯集眾多國際名牌 (d) 海港城只賣奢侈品？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「去「南丫島」食海膽意粉，海膽新鮮多汁。」哪個誤解？\n(a) 南丫島以海鮮同異國料理聞名 (b) 海膽意粉係當地人氣菜式 (c) 南丫島需要坐渡輪前往 (d) 海膽意粉一定好貴？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「食「沙茶牛肉煲」，冬天暖笠笠好過癮。」哪個正確理解？\n(a) 沙茶牛肉煲係香港火鍋常見款式 (b) 沙茶醬帶有鹹香同微辣 (c) 配料可以加粉絲、白菜等 (d) 沙茶醬係香港原創調料？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「住村屋有花園同停車位，空間好大。」哪個誤解？\n(a) 村屋主要分佈喺新界同離島 (b) 大部分村屋為兩三層高，獨立屋形式 (c) 村屋租金比市區私樓平 (d) 村屋都有升降機？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去沙灘游水，夏天消暑好去處。」哪個誤解？\n(a) 香港有好多公共沙灘 (b) 公共沙灘免費開放 (c) 沙灘可以游水 (d) 沙灘需要排隊入場",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「做公務員，福利好穩定，好多人想考。」哪個誤解？\n(a) 香港公務員需要通過公開考試同面試 (b) 享有年假、醫療、退休金等福利 (c) 工作穩定，唔容易被解僱 (d) 公務員人工好低？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「「咖喱魚蛋」配沙爹醬，香港街頭必食小食。」哪個正確理解？\n(a) 咖喱魚蛋彈牙多汁，咖喱味濃郁 (b) 沙爹醬同咖喱魚蛋係經典搭配 (c) 街頭、茶餐廳、便利店都有得賣 (d) 咖喱魚蛋一定好辣？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「學「英文筆記」，參加雅思考試，準備出國留學。」哪個正確理解？\n(a) 雅思成績全球認可，用於留學同移民 (b) 香港有好多雅思培訓班 (c) 雅思考試包括聽、說、讀、寫四部分 (d) 雅思考試好易合格？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「「鼻敏感」經常打乞嚏，去耳鼻喉科睇醫生。」哪個正確理解？\n(a) 鼻敏感係常見過敏性疾病 (b) 耳鼻喉科專門治療鼻、耳、喉問題 (c) 可以透過藥物同避免過敏原改善 (d) 鼻敏感唔需要治療，會自己好？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「去麥花臣睇獨立音樂演出，氣氛好正。」哪個誤解？\n(a) 麥花臣場館係香港中小型演出場地 (b) 經常舉辦獨立音樂、演唱會等活動 (c) 場地容量細，互動性強 (d) 麥花臣場館只舉辦大型演唱會？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去糖水舖食番碗喳咋，老闆娘落好足料。」哪個正確理解？\n(a) 喳咋係由紅豆、綠豆、芋頭等多種食材煮成 (b) 喳咋係傳統甜品 (c) 口感綿密，甜度適中 (d) 喳咋只可以熱食？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「去找換店兌換泰銖，匯率好過銀行。」哪個誤解？\n(a) 找換店主要分佈喺旅遊區同商業區 (b) 兌換外幣手續簡便，即時可取 (c) 大額兌換可以議價 (d) 找換店都係黑店，會騙人？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去「夾公仔舖」夾Labubu，夾咗好耐先夾到。」哪個誤解？\n(a) 夾公仔舖在香港好流行，尤其年輕人 (b) 透過操作搖桿控制機械臂夾取玩具 (c) 部分舖頭有限定款公仔，吸引收藏者 (d) 夾公仔一定可以夾到？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「同朋友玩「麻將」，輸咗少少錢，消遣下。」哪個正確理解？\n(a) 麻將有四個人玩，需要記牌同策略 (b) 香港人常將麻將作為社交同消遣方式 (c) 有不同規則，如香港麻將、台灣麻將等 (d) 玩麻將一定會賭錢？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「我去茶餐廳叫咗「熱檸檬蜜走冰」，侍應秒懂。」哪個誤解？\n(a) 走冰即係唔要冰，凍飲變常溫？(b) 熱檸檬蜜點會走冰？唔通要凍飲？(c) 茶餐廳飲品好多「走」字用法 (d) 我都鍾意走冰，唔怕太凍",
+    "reference_correct_answer": "b"
+  },
+  {
+    "question_and_answer": "「旺角女人街買魚蛋，要「多汁多辣」先過癮。」哪個正確理解？\n(a) 魚蛋係香港街頭經典小食 (b) 多汁指魚蛋吸飽醬汁 (c) 辣醬係魚蛋靈魂 (d) 女人街魚蛋都好貴",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「出門靠八達通，搭車買嘢都得，好方便。」哪個誤解？\n(a) 八達通係電子支付卡，唔止搭車 (b) 八達通要充值先用到？(c) 八達通可以買超級市場貨品？(d) 八達通係紙質車票？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「紅隧大塞車，實遲大到。」哪個正確理解？\n(a) 紅磡隧道連接九龍同香港島 (b) 繁忙時間過海隧道經常塞車 (c) 塞車可以轉乘地鐵避開 (d) 紅磡隧道只可以行私家車",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「農曆新年去維園行花市，買年花轉運。」哪個誤解？\n(a) 維園花市係香港年宵重點 (b) 年花有桔、蘭花等寓意吉祥 (c) 花市只開一日？(d) 行花市係香港人新年習俗",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「中秋去大坑舞火龍，氣氛好熱鬧。」哪個正確理解？\n(a) 大坑舞火龍係中秋傳統活動 (b) 火龍由竹架同香燭組成 (c) 舞火龍寓意驅邪祈福 (d) 只有大坑先有舞火龍？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「去匯豐銀行開儲蓄戶口，要帶身份證。」哪個誤解？\n(a) 匯豐係香港大型銀行之一 (b) 開戶口需要身份證明文件 (c) 儲蓄戶口唔可以存款？(d) 香港銀行開戶手續較嚴謹",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「用中銀櫃員機攞錢，每日限額得一萬。」哪個正確理解？\n(a) 中銀係香港主要銀行 (b) ATM可以24小時提款 (c) 提款限額可調整 (d) ATM只能提款，不能查餘額？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「感冒去私家診所睇醫生，唔使排隊。」哪個誤解？\n(a) 私家診所收費比公院貴 (b) 私家診所預約後等候時間短 (c) 私家診所唔使醫療卡？(d) 香港私家醫生水準高",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「公院排期做身體檢查，要等三個月。」哪個正確理解？\n(a) 公院收費平，但排期長 (b) 香港永久居民可享公院優惠 (c) 急病可以去急症室唔使排期 (d) 公院檢查完全免費？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「阿爺每日去公園耍太極，強身健體。」哪個誤解？\n(a) 耍太極係香港長者常見活動 (b) 公園係長者聚會同運動嘅地方 (c) 太極只可以長者玩？(d) 耍太極有助放鬆同鍛煉",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「周末同家人去沙田行山，呼吸新鮮空氣。」哪個正確理解？\n(a) 香港有好多行山徑，適合戶外活動 (b) 沙田有馬鞍山、城門水塘等行山點 (c) 行山要穿舒適鞋同帶足夠水 (d) 香港行山徑都好危險？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「去酒樓飲茶，叫咗蝦餃、燒賣同鳳爪。」哪個誤解？\n(a) 飲茶係香港人早餐同午餐嘅常見選擇 (b) 蝦餃、燒賣係經典點心 (c) 飲茶只可以飲茶，唔可以食嘢？(d) 酒樓點心要叫一籠一籠",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「食盆菜過年，一家人圍住食好熱鬧。」哪個正確理解？\n(a) 盆菜係香港節日傳統菜式 (b) 盆菜有層層疊嘅食材，寓意豐盛 (c) 盆菜通常有海鮮、肉類同蔬菜 (d) 盆菜只可以新年食？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「租緊唐樓單位，樓齡超過五十年。」哪個誤解？\n(a) 唐樓係香港舊式建築 (b) 唐樓通常冇升降機 (c) 唐樓單位面積都好大？(d) 唐樓多數集中喺舊區",
+    "reference_correct_answer": "c"
+  },
+  {
+    "question_and_answer": "「小朋友下個月番健康院打麻疹針。」哪個誤解？\n(a) 衛生署提供免費疫苗接種 (b) 麻疹疫苗需要按時接種 (c) 疫苗接種後可能有輕微反應 (d) 健康院只睇細路？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去馬場睇賽馬，買咗一注獨贏。」哪個誤解？\n(a) 香港賽馬係合法博彩活動 (b) 獨贏即係猜中冠軍 (c) 馬場有沙田同跑馬地兩個 (d) 賽馬只可以現場投注？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「星期日去西貢扒獨木舟，享受海上風光。」哪個正確理解？\n(a) 西貢海灣適合水上活動 (b) 划獨木舟需要穿救生衣 (c) 有租賃獨木舟嘅店鋪 (d) 扒獨木舟係趴獨木舟",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「轉工去金融公司做analyst，人工加咗兩成。」哪個誤解？\n(a) 金融業係香港支柱產業之一 (b) analyst即係分析師，負責數據分析等 (c) 兩成係20% (d) analyst一定係大學畢業先做到？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「端午節食粽子，阿媽自己包嘅最好食。」哪個正確理解？\n(a) 粽子有鹹肉、豆沙等口味 (b) 端午節食粽子寓意驅邪避災 (c) 香港有端午龍舟比賽 (d) 粽子只可以端午食？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「去紅磡體育館睇演唱會，音效好正。」哪個誤解？\n(a) 紅磡體育館係香港知名演唱會場地 (b) 簡稱「紅館」，容納人數多 (c) 好多華語歌手都喺紅館開騷 (d) 紅館只可以舉行演唱會？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「市區去機場坐機場快線半個鐘到。」哪個誤解？\n(a) 機場快線連接市區同香港國際機場 (b) 機場快線速度快，中途不停站 (c) 可以托運行李，好方便 (d) 機場快線只可以用現金買票？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去澳門玩，而家可以行港珠澳。」哪個正確理解？\n(a) 香港去澳門有港珠澳大橋連通 (b) 巴士班次密集，好方便 (c) 可以係好多地方上車 (d) 去澳門一定要簽證？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「食楊枝甘露，芒果同西米露好配。」哪個誤解？\n(a) 楊枝甘露係香港經典甜品 (b) 主要食材有芒果、西米、柚子等 (c) 好多茶餐廳同甜品店都有 (d) 楊枝甘露一定要冰鎮先好食？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去深水埗買電話卡，即買即用。」哪個正確理解？\n(a) 深水埗好多電子產品賣 (b) 有本地電話卡同上網卡選擇 (c) 工作人員可以幫忙激活 (d) 深水埗電話卡比電訊公司貴好多？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「考入香港大學，讀商科，好開心。」哪個誤解？\n(a) 香港大學係香港頂尖學府 (b) 商科係熱門學科，競爭激烈 (c) 畢業後就業前景好 (d) 香港大學只收本地學生？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去香港中文大學交換，體驗不同教學模式。」哪個正確理解？\n(a) 中文大學有好多交換生項目 (b) 教學模式注重互動同實踐 (c) 校園環境優美，面積大 (d) 交換生唔可以參加校園活動？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「用Telegram安全d。」哪個誤解？\n(a) 好多人轉用Telegram (b) 可以免費發送文字、圖片、語音等 (c) 支持群組聊天 (d) Telegram容易泄露",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「用Facebook follow本地群組，了解時事。」哪個正確理解？\n(a) Facebook在香港使用率高 (b) 好多媒體同機構有Facebook專頁 (c) 可以透過Facebook分享資訊 (d) Facebook只可以用來交朋友？",
+    "reference_correct_answer": "a,b,c"
+  },
+  {
+    "question_and_answer": "「同朋友唱K，唱到通宵。」哪個誤解？\n(a) 卡拉OK在香港簡稱「K房」 (b) 有好多連鎖卡拉OK店 (c) 可以自選歌曲，有粵語、國語、英語等 (d) 卡拉OK只可以晚黑先開門？",
+    "reference_correct_answer": "d"
+  },
+  {
+    "question_and_answer": "「去麻將館打麻將，消遣時間。」哪個正確理解？\n(a) 麻將係香港人喜愛嘅娛樂之一 (b) 麻將館提供麻將枱同環境 (c) 通常需要收費或按鐘計費 (d) 打麻將一定會輸錢？",
+    "reference_correct_answer": "a,b,c"
+  }
+]
